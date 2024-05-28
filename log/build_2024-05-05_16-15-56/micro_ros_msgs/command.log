@@ -1,4 +1,0 @@
-Invoking command in '/home/jsh/robot_ws/build/micro_ros_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/micro_ros_msgs -- -j8 -l8
-Invoked command in '/home/jsh/robot_ws/build/micro_ros_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/micro_ros_msgs -- -j8 -l8
-Invoking command in '/home/jsh/robot_ws/build/micro_ros_msgs': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/micro_ros_msgs
-Invoked command in '/home/jsh/robot_ws/build/micro_ros_msgs' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/micro_ros_msgs
