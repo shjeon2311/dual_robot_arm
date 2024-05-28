@@ -1,14 +1,18 @@
 # Picking and Packing Dual Robot Arm
 
+This GitHub repository contains the code used for the 2024-1 Capstone Design project. The project involved uploading the code from this repository to hardware built using an Arduino Due, Mini Maestro Servo Controller, and Servo Motor. 
+
+You can check out our results at https://www.youtube.com/watch?v=6UXpxrR5yh4&list=LL
 
 
-
-# Setup
+## Setup
 The package is verified with ROS2 Foxy and Humble.
 
 Dependencies: ROS2 [Foxy or Humble], moveit2, pymoveit2, Gazebo 11
 
-# Clone and Build
+
+
+## Clone and Build
 ```
 source /opt/ros/<DISTRO>/setup.bash
 mkdir -p robot_ws
@@ -18,7 +22,7 @@ rosdep install --from-paths src --ignore-src -r -y
 colcon build --symlink-install
 ```
 
-# Launch
+## Launch
 
 **Console 1: Launch Gazebo**
 ```
@@ -45,6 +49,9 @@ cd ./src/pymoveit2/examples/
 python3 ex_servo.py
 ```
 
+
+
+
 **Console 5: Run task file**
 ```
 source ./install/setup.bash
@@ -53,15 +60,17 @@ python3 task_box.py
 (or python3 task_bag.py)
 ```
 
+
+
 To check the subscribtion of the topic for the motor angle values, you can follow the additional steps:
 
-**Console 6: Run task file**
+**(Console 6: Run task file)**
 ```
 source ./install/setup.bash
 ros2 topic echo /micro_ros_arduino_subscriber_1
 ```
 
-**Console 7: Run task file**
+**(Console 7: Run task file)**
 ```
 source ./install/setup.bash
 ros2 topic echo /micro_ros_arduino_subscriber_2
