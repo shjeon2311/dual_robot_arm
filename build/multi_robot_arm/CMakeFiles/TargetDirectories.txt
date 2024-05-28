@@ -1,9 +1,0 @@
-/home/jsh/robot_ws/build/multi_robot_arm/CMakeFiles/uninstall.dir
-/home/jsh/robot_ws/build/multi_robot_arm/CMakeFiles/multi_robot_arm_uninstall.dir
-/home/jsh/robot_ws/build/multi_robot_arm/CMakeFiles/test.dir
-/home/jsh/robot_ws/build/multi_robot_arm/CMakeFiles/edit_cache.dir
-/home/jsh/robot_ws/build/multi_robot_arm/CMakeFiles/rebuild_cache.dir
-/home/jsh/robot_ws/build/multi_robot_arm/CMakeFiles/list_install_components.dir
-/home/jsh/robot_ws/build/multi_robot_arm/CMakeFiles/install.dir
-/home/jsh/robot_ws/build/multi_robot_arm/CMakeFiles/install/local.dir
-/home/jsh/robot_ws/build/multi_robot_arm/CMakeFiles/install/strip.dir
