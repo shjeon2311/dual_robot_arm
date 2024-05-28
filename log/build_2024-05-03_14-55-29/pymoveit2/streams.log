@@ -1,0 +1,88 @@
+[0.095s] Invoking command in '/home/jsh/robot_ws/build/pymoveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jsh/robot_ws/src/pymoveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jsh/robot_ws/install/pymoveit2
+[0.401s] -- The C compiler identification is GNU 11.4.0
+[0.745s] -- The CXX compiler identification is GNU 11.4.0
+[0.788s] -- Detecting C compiler ABI info
+[1.184s] -- Detecting C compiler ABI info - done
+[1.254s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.256s] -- Detecting C compile features
+[1.259s] -- Detecting C compile features - done
+[1.280s] -- Detecting CXX compiler ABI info
+[1.754s] -- Detecting CXX compiler ABI info - done
+[1.822s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.824s] -- Detecting CXX compile features
+[1.827s] -- Detecting CXX compile features - done
+[1.848s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.834s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.227s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[4.447s] -- Configuring done
+[4.468s] -- Generating done
+[4.475s] -- Build files have been written to: /home/jsh/robot_ws/build/pymoveit2
+[4.497s] Invoked command in '/home/jsh/robot_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jsh/robot_ws/src/pymoveit2 -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jsh/robot_ws/install/pymoveit2
+[4.508s] Invoking command in '/home/jsh/robot_ws/build/pymoveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/pymoveit2 -- -j8 -l8
+[4.817s] Built target ament_cmake_python_symlink_pymoveit2
+[6.746s] running egg_info
+[6.749s] creating pymoveit2.egg-info
+[6.751s] writing pymoveit2.egg-info/PKG-INFO
+[6.752s] writing dependency_links to pymoveit2.egg-info/dependency_links.txt
+[6.753s] writing top-level names to pymoveit2.egg-info/top_level.txt
+[6.755s] writing manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[6.768s] reading manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[6.771s] writing manifest file 'pymoveit2.egg-info/SOURCES.txt'
+[6.902s] Built target ament_cmake_python_build_pymoveit2_egg
+[6.956s] Invoked command in '/home/jsh/robot_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/pymoveit2 -- -j8 -l8
+[7.088s] Invoking command in '/home/jsh/robot_ws/build/pymoveit2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/pymoveit2
+[7.123s] -- Install configuration: ""
+[7.127s] -- Execute custom install script
+[7.128s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.sh
+[7.171s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/environment/pythonpath.dsv
+[7.222s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/PKG-INFO
+[7.268s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/SOURCES.txt
+[7.311s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/dependency_links.txt
+[7.356s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2-2.1.0-py3.10.egg-info/top_level.txt
+[7.404s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/__init__.py
+[7.449s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/gripper_command.py
+[7.494s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2.py
+[7.539s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_gripper.py
+[7.586s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_servo.py
+[7.632s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/__init__.py
+[7.679s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/panda.py
+[7.723s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/ur5.py
+[7.769s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/ex_collision_object.py
+[7.813s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/ex_gripper_command.py
+[7.858s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/ex_gripper.py
+[7.903s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/ex_joint_goal.py
+[7.950s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/ex_pose_goal.py
+[7.993s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/ex_servo_1.py
+[8.040s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/ex_servo_2.py
+[8.087s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/ex_multi_move.py
+[8.131s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/runner.py
+[8.174s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/dual_pose_goal.py
+[8.221s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/joint.py
+[8.266s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/task_bag.py
+[8.310s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/lib/pymoveit2/task_wrap.py
+[8.353s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/ament_index/resource_index/package_run_dependencies/pymoveit2
+[8.399s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/ament_index/resource_index/parent_prefix_path/pymoveit2
+[8.444s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.sh
+[8.495s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/environment/ament_prefix_path.dsv
+[8.547s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/environment/path.sh
+[8.593s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/environment/path.dsv
+[8.643s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/local_setup.bash
+[8.688s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/local_setup.sh
+[8.734s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/local_setup.zsh
+[8.782s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/local_setup.dsv
+[8.828s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/package.dsv
+[8.871s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/ament_index/resource_index/packages/pymoveit2
+[8.916s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config.cmake
+[8.959s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/cmake/pymoveit2Config-version.cmake
+[9.003s] -- Symlinking: /home/jsh/robot_ws/install/pymoveit2/share/pymoveit2/package.xml
+[9.325s] Listing '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2'...
+[9.326s] Compiling '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/__init__.py'...
+[9.326s] Compiling '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/gripper_command.py'...
+[9.327s] Compiling '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2.py'...
+[9.328s] Compiling '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_gripper.py'...
+[9.329s] Compiling '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/moveit2_servo.py'...
+[9.329s] Listing '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots'...
+[9.330s] Compiling '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/__init__.py'...
+[9.330s] Compiling '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/panda.py'...
+[9.330s] Compiling '/home/jsh/robot_ws/install/pymoveit2/local/lib/python3.10/dist-packages/pymoveit2/robots/ur5.py'...
+[9.361s] Invoked command in '/home/jsh/robot_ws/build/pymoveit2' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/pymoveit2

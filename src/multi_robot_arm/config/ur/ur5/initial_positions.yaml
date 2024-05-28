@@ -1,0 +1,6 @@
+shoulder_pan_joint: 1.5708    #90도  
+shoulder_lift_joint: 1.5708 #40도 -> 90
+elbow_joint: 2.35619         #70도 -> 135
+wrist_1_joint: 1.5708         #90도
+wrist_2_joint: 0.349066      #45도 -> 10도 -> 20 
+wrist_3_joint: 1.22173        #70도 

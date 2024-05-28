@@ -1,0 +1,95 @@
+mesh_files:
+  base:
+    visual:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/visual/base.dae
+      material:
+        name: "LightGrey"
+        color: "0.7 0.7 0.7 1.0"
+    collision:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/collision/base.stl
+
+  shoulder:
+    visual:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/visual/waist.dae
+      material:
+        name: "LightGrey"
+        color: "0.7 0.7 0.7 1.0"
+    collision:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/collision/waist.stl
+
+  upper_arm:
+    visual:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/visual/arm_01.dae
+      material:
+        name: "LightGrey"
+        color: "0.7 0.7 0.7 1.0"
+    collision:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/collision/arm_01.stl
+      mesh_files:
+
+  forearm:
+    visual:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/visual/arm_02.dae
+      material:
+        name: "LightGrey"
+        color: "0.7 0.7 0.7 1.0"
+    collision:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/collision/arm_02.stl
+
+  wrist_1:
+    visual:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/visual/arm_03.dae
+      material:
+        name: "LightGrey"
+        color: "0.7 0.7 0.7 1.0"
+    collision:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/collision/arm_03.stl
+    visual_offset: 0
+
+  wrist_2:
+    visual:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/visual/gripper_base.dae
+      material:
+        name: "LightGrey"
+        color: "0.7 0.7 0.7 1.0"
+    collision:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/collision/gripper_base.stl
+    visual_offset: 0
+
+  wrist_3:
+    visual:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/visual/gripper.dae
+      material:
+        name: "LightGrey"
+        color: "0.7 0.7 0.7 1.0"
+    collision:
+      mesh:
+        package: multi_robot_arm
+        path: urdf/ur/meshes/ur5/collision/gripper.stl
+    visual_offset: 0

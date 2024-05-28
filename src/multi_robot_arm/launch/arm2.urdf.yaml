@@ -1,0 +1,26 @@
+arm2:
+  robot_description: |
+    <?xml version="1.0"?>
+    <robot name="arm2" xmlns:xacro="http://www.ros.org/wiki/xacro">
+      <!-- URDF goes here -->
+    </robot>
+  controllers:
+    - name: joint_state_controller
+      type: "joint_state_broadcaster/JointStateBroadcaster"
+      joints:
+        - shoulder_pan_joint
+        - shoulder_lift_joint
+        - elbow_joint
+        - wrist_1_joint
+        - wrist_2_joint
+        - wrist_3_joint
+    - name: arm_controller
+      type: "position_controllers/JointTrajectoryController"
+      joints:
+        - shoulder_pan_joint
+        - shoulder_lift_joint
+        - elbow_joint
+        - wrist_1_joint
+        - wrist_2_joint
+        - wrist_3_joint
+      ...

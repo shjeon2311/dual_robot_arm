@@ -1,0 +1,1039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<COLLADA xmlns="http://www.collada.org/2005/11/COLLADASchema" version="1.4.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <asset>
+    <contributor>
+      <author>Blender User</author>
+      <authoring_tool>Blender 4.0.2 commit date:2023-12-05, commit time:07:41, hash:9be62e85b727</authoring_tool>
+    </contributor>
+    <created>2024-03-22T13:43:27</created>
+    <modified>2024-03-22T13:43:27</modified>
+    <unit name="meter" meter="1"/>
+    <up_axis>Z_UP</up_axis>
+  </asset>
+  <library_cameras>
+    <camera id="Camera_015-camera" name="Camera.015">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_014-camera" name="Camera.014">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_013-camera" name="Camera.013">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_012-camera" name="Camera.012">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_011-camera" name="Camera.011">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_010-camera" name="Camera.010">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_009-camera" name="Camera.009">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_008-camera" name="Camera.008">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_007-camera" name="Camera.007">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_006-camera" name="Camera.006">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_005-camera" name="Camera.005">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_004-camera" name="Camera.004">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_003-camera" name="Camera.003">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_002-camera" name="Camera.002">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera_001-camera" name="Camera.001">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+    <camera id="Camera-camera" name="Camera">
+      <optics>
+        <technique_common>
+          <perspective>
+            <xfov sid="xfov">39.59775</xfov>
+            <aspect_ratio>1.777778</aspect_ratio>
+            <znear sid="znear">0.1</znear>
+            <zfar sid="zfar">100</zfar>
+          </perspective>
+        </technique_common>
+      </optics>
+      <extra>
+        <technique profile="blender">
+          <shiftx sid="shiftx" type="float">0</shiftx>
+          <shifty sid="shifty" type="float">0</shifty>
+          <dof_distance sid="dof_distance" type="float">10</dof_distance>
+        </technique>
+      </extra>
+    </camera>
+  </library_cameras>
+  <library_lights>
+    <light id="Light_015-light" name="Light.015">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_014-light" name="Light.014">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_013-light" name="Light.013">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_012-light" name="Light.012">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_011-light" name="Light.011">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_010-light" name="Light.010">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_009-light" name="Light.009">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_008-light" name="Light.008">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_007-light" name="Light.007">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_006-light" name="Light.006">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_005-light" name="Light.005">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_004-light" name="Light.004">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_003-light" name="Light.003">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_002-light" name="Light.002">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light_001-light" name="Light.001">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+    <light id="Light-light" name="Light">
+      <technique_common>
+        <point>
+          <color sid="color">1000 1000 1000</color>
+          <constant_attenuation>1</constant_attenuation>
+          <linear_attenuation>0</linear_attenuation>
+          <quadratic_attenuation>0</quadratic_attenuation>
+        </point>
+      </technique_common>
+      <extra>
+        <technique profile="blender">
+          <type sid="type" type="int">0</type>
+          <flag sid="flag" type="int">0</flag>
+          <mode sid="mode" type="int">1</mode>
+          <red sid="red" type="float">1</red>
+          <green sid="green" type="float">1</green>
+          <blue sid="blue" type="float">1</blue>
+          <shadow_r sid="blender_shadow_r" type="float">0</shadow_r>
+          <shadow_g sid="blender_shadow_g" type="float">0</shadow_g>
+          <shadow_b sid="blender_shadow_b" type="float">0</shadow_b>
+          <energy sid="blender_energy" type="float">1000</energy>
+          <spotsize sid="spotsize" type="float">75</spotsize>
+          <spotblend sid="spotblend" type="float">0.15</spotblend>
+          <clipsta sid="clipsta" type="float">0.04999995</clipsta>
+          <clipend sid="clipend" type="float">30.002</clipend>
+          <bias sid="bias" type="float">1</bias>
+          <radius sid="radius" type="float">0.1</radius>
+          <area_shape sid="area_shape" type="int">1</area_shape>
+          <area_size sid="area_size" type="float">0.1</area_size>
+          <area_sizey sid="area_sizey" type="float">0.1</area_sizey>
+          <area_sizez sid="area_sizez" type="float">1</area_sizez>
+        </technique>
+      </extra>
+    </light>
+  </library_lights>
+  <library_images/>
+  <library_geometries>
+    <geometry id="gear1-mesh" name="gear1">
+      <mesh>
+        <source id="gear1-mesh-positions">
+          <float_array id="gear1-mesh-positions-array" count="1662">-3.129836 2 -11.6807 -3.650907 2 -11.52846 -10.59347 2 -6.870371 1.515544 2 -0.8749962 1.644464 2 -0.5985365 11.41203 2 4.000003 1.723414 2 -0.3038864 1.750003 2 -6.67572e-6 31.05389 2 1.723414 30.75 2 1.750003 30.75 2 4.000003 30.44611 2 1.723414 0.8749933 2 -1.515547 1.124874 2 -1.340576 1.340573 2 -1.124876 29.40942 2 1.124874 29.23446 2 0.8749933 -0.5985365 2 -1.644466 10.19071 2 -6.510296 10.59346 2 -6.870371 6.046374 2 -10.47263 5.570273 2 -10.73344 -2.602456 2 -11.8094 1.723414 2 0.3038836 1.644464 2 0.5985336 11.08032 2 4.843673 1.515544 2 0.8749933 10.68633 2 5.660113 30.15147 2 1.644464 29.875 2 1.515544 29.62513 2 1.340573 29 2 -6.67572e-6 29.02659 2 0.3038836 29.10553 2 0.5985336 -0.3038864 2 -1.723416 12.96737 2 -4.588203 13.31401 2 -4.932708 8.158486 2 -8.926014 -10.19072 2 -6.510296 -10.47263 2 -6.046376 6.510293 2 -10.19072 -1.644466 2 0.5985336 -1.723416 2 0.3038836 -11.8094 2 -2.602456 -1.340576 2 -1.124876 -1.124876 2 -1.340576 -11.52846 2 -3.650916 -0.8749962 2 -1.515547 -12.08728 2 0.3637934 -0.4962063 2 12.08256 -12.08057 2 -0.5427265 -12.6094 2 -0.6531868 -10.72628 2 5.584044 -10.27782 2 6.371884 8.903546 2 -10.35925 7.268884 2 -10.95823 8.703504 2 -9.857403 6.870364 2 -10.59347 8.454316 2 -9.378062 -5.739028 2 -11.24665 -5.570272 2 -10.73344 -6.046376 2 -10.47263 -6.510296 2 -10.19072 -11.28134 2 -7.701856 -10.87857 2 -9.052447 -11.55957 2 -8.164944 -11.41016 2 -9.148707 -11.79014 2 -8.653515 -8.926014 2 -8.15849 -9.37806 2 -8.454321 -10.95823 2 -7.268888 -9.857403 2 -8.703508 -10.35925 2 -8.903549 1.340573 2 1.124874 9.720735 2 7.193183 10.23228 2 6.444755 6.411414 2 10.25321 7.161504 2 9.744105 0.8749933 2 1.515544 1.124874 2 1.340573 32.26554 2 0.8749933 34.3693 2 1.703114 32.39447 2 0.5985336 34.55422 2 1.236064 32.47341 2 0.3038836 34.67914 2 0.7495241 32.5 2 -6.67572e-6 -10.73344 2 -5.570272 -12.01069 2 -3.894476 -11.24665 2 -5.739028 -12.46616 2 -4.185006 -11.77415 2 -5.855659 -12.31067 2 -5.918996 -14.45584 2 -2.217926 -14.53732 2 -1.599096 -13.94734 2 -2.400367 -14.09335 2 -1.291266 9.148704 2 -11.41017 8.653514 2 -11.79014 9.052444 2 -10.87857 8.164943 2 -11.55957 7.701854 2 -11.28134 -1.599096 2 -14.53732 -2.217926 2 -14.45584 -1.291266 2 -14.09335 -2.400367 2 -13.94734 -2.531076 2 -13.42314 -0.8159266 2 -13.12454 -1.029336 2 -13.62085 -2.608756 2 -12.88852 -2.632627 2 -12.3488 -0.6531868 2 -12.6094 -0.5427265 2 -12.08057 -6.67572e-6 2 -12.09275 -8.653515 2 -11.79014 -9.148705 2 -11.41017 -8.164942 2 -11.55957 -9.052447 2 -10.87857 -7.701855 2 -11.28134 -7.268887 2 -10.95823 7.871333 2 9.180226 8.536933 2 8.564775 9.154563 2 7.901174 5.625304 2 10.70469 0.5985336 2 1.644464 4.807574 2 11.09602 0.4103336 2 12.08578 1.314564 2 12.02108 -6.67572e-6 2 1.750003 0.3038836 2 1.723414 29.02659 2 -0.3038864 29.10553 2 -0.5985365 12.18798 2 -3.999996 29.23446 2 -0.8749962 -6.67572e-6 2 -1.749996 0.3038836 2 -1.723416 0.5985336 2 -1.644466 34.7421 2 0.2511635 34.7421 2 -0.2511664 32.47341 2 -0.3038864 34.67914 2 -0.749526 32.39447 2 -0.5985365 31.625 2 1.515544 33.10113 2 3.236064 31.87487 2 1.340573 33.48819 2 2.915874 32.09058 2 1.124874 33.83205 2 2.549693 34.12731 2 2.143304 -0.5985365 2 1.644464 -0.8749962 2 1.515544 -1.124876 2 1.340573 -1.340576 2 1.124874 -1.515547 2 0.8749933 8.550866 2 -8.550868 8.926013 2 -8.15849 -8.597582 2 8.503894 -7.93637 2 9.124066 -8.90355 2 -10.35925 -8.703508 2 -9.857403 -6.870371 2 -10.59347 -8.454321 2 -9.378062 -8.15849 2 -8.926014 -8.550868 2 -8.550868 2.211404 2 11.88883 3.095813 2 11.68976 3.962834 2 11.42499 29.40942 2 -1.124876 29.62513 2 -1.340576 30.75 2 -3.999996 29.875 2 -1.515547 30.15147 2 -1.644466 31.25134 2 3.968453 31.74476 2 3.874333 31.34853 2 1.644464 32.2225 2 3.719104 32.67701 2 3.505223 10.73343 2 -5.570272 10.47262 2 -6.046376 -0.3038864 2 1.723414 -1.749996 2 -6.67572e-6 -1.723416 2 -0.3038864 -11.6807 2 -3.129836 -1.644466 2 -0.5985365 -1.515547 2 -0.8749962 -13.62085 2 -1.029336 -12.88851 2 -2.608756 -13.42314 2 -2.531076 -12.3488 2 -2.632627 -13.12454 2 -0.8159266 -9.771608 2 7.123923 -9.210474 2 7.835923 0.5427237 2 -12.08057 2.602454 2 -11.8094 0.6531839 2 -12.6094 2.632625 2 -12.3488 0.8159237 2 -13.12454 12.59099 2 -4.276446 31.87487 2 -1.340576 33.10113 2 -3.236066 31.625 2 -1.515547 32.67701 2 -3.505226 31.34853 2 -1.644466 34.55422 2 -1.236066 34.3693 2 -1.703116 32.26554 2 -0.8749962 34.12731 2 -2.143307 32.09058 2 -1.124876 33.83205 2 -2.549696 33.48819 2 -2.915876 12.85083 2 -5.928411 12.31066 2 -5.918996 11.77415 2 -5.855659 -13.38923 2 -5.883803 -13.62809 2 -5.307141 -12.85083 2 -5.928411 -13.27893 2 -4.894895 -12.89032 2 -4.519596 -12.02606 2 1.268264 -11.89726 2 2.165605 -11.7016 2 3.050784 -3.894476 2 -12.01069 -4.185006 2 -12.46616 -5.855658 2 -11.77415 -4.519596 2 -12.89032 -5.918996 2 -12.31067 -4.894894 2 -13.27893 -5.928411 2 -12.85083 -5.307141 2 -13.62809 -5.883802 2 -13.38923 13.62809 2 -5.307141 13.38923 2 -5.883803 11.24664 2 -5.739028 9.378055 2 -8.454321 10.95822 2 -7.268888 9.857404 2 -8.703508 11.28133 2 -7.701856 10.35924 2 -8.903549 11.55956 2 -8.164944 10.87856 2 -9.052447 11.79013 2 -8.653515 11.41016 2 -9.148707 -11.44017 2 3.918813 -11.11446 2 4.764813 -6.484113 2 10.20739 -5.701227 2 10.66445 -7.23056 2 9.692964 -4.886302 2 11.06158 -4.043917 2 11.39654 -3.178806 2 11.66746 5.883803 2 -13.38923 5.307143 2 -13.62809 5.928403 2 -12.85083 4.894895 2 -13.27893 5.918994 2 -12.31067 5.855653 2 -11.77415 2.608754 2 -12.88852 2.531074 2 -13.42314 1.029334 2 -13.62085 2.400363 2 -13.94734 1.291264 2 -14.09335 2.217923 2 -14.45584 1.599093 2 -14.53732 -2.295826 2 11.87281 -1.399946 2 12.01144 4.519593 2 -12.89032 4.185004 2 -12.46616 5.739024 2 -11.24665 3.894473 2 -12.01069 3.650903 2 -11.52846 3.129834 2 -11.6807 30.44611 2 -1.723416 30.75 2 -1.749996 31.25134 2 -3.968456 31.05389 2 -1.723416 31.74476 2 -3.874336 32.2225 2 -3.719107 0.3038836 -2 -1.723416 -6.67572e-6 -2 -1.749996 -6.67572e-6 -2 -12.09275 6.870364 -2 -10.59347 7.268884 -2 -10.95823 8.903546 -2 -10.35925 1.723414 -2 0.3038836 1.750003 -2 -6.67572e-6 8.926013 -2 -8.15849 1.723414 -2 -0.3038864 1.644464 -2 -0.5985365 -11.8094 -2 -2.602456 -9.210474 -2 7.835923 -9.771608 -2 7.123923 0.5427237 -2 -12.08057 6.046374 -2 -10.47263 6.510293 -2 -10.19072 1.340573 -2 1.124874 1.515544 -2 0.8749933 1.644464 -2 0.5985336 11.41016 -2 -9.148707 11.79013 -2 -8.653515 10.87856 -2 -9.052447 11.55956 -2 -8.164944 10.35924 -2 -8.903549 9.857404 -2 -8.703508 12.18798 -2 -3.999996 0.8749933 -2 1.515544 1.124874 -2 1.340573 -10.27782 -2 6.371884 -12.08728 -2 0.3637934 -12.08057 -2 -0.5427265 -11.77415 -2 -5.855659 -11.24665 -2 -5.739028 -12.46616 -2 -4.185006 2.602454 -2 -11.8094 3.129834 -2 -11.6807 5.570273 -2 -10.73344 3.650903 -2 -11.52846 5.739024 -2 -11.24665 7.701854 -2 -11.28134 8.164943 -2 -11.55957 9.052444 -2 -10.87857 8.653514 -2 -11.79014 9.148704 -2 -11.41017 8.158486 -2 -8.926014 8.454316 -2 -9.378062 8.703504 -2 -9.857403 11.28133 -2 -7.701856 10.95822 -2 -7.268888 9.378055 -2 -8.454321 10.59346 -2 -6.870371 10.19071 -2 -6.510296 -11.6807 -2 -3.129836 -11.52846 -2 -3.650916 -8.926014 -2 -8.15849 -10.19072 -2 -6.510296 -9.37806 -2 -8.454321 -5.570272 -2 -10.73344 -3.129836 -2 -11.6807 -2.602456 -2 -11.8094 -6.510296 -2 -10.19072 -6.046376 -2 -10.47263 -0.5427265 -2 -12.08057 -0.6531868 -2 -12.6094 -2.632627 -2 -12.3488 -0.8159266 -2 -13.12454 29.02659 -2 0.3038836 29.10553 -2 0.5985336 11.41203 -2 4.000003 29.23446 -2 0.8749933 -0.5985365 -2 -1.644466 -0.8749962 -2 -1.515547 -1.124876 -2 -1.340576 -1.340576 -2 -1.124876 -1.749996 -2 -6.67572e-6 -1.723416 -2 0.3038836 -1.340576 -2 1.124874 -8.597582 -2 8.503894 -1.124876 -2 1.340573 -7.93637 -2 9.124066 -7.23056 -2 9.692964 2.531074 -2 -13.42314 2.608754 -2 -12.88852 0.8159237 -2 -13.12454 2.632625 -2 -12.3488 0.6531839 -2 -12.6094 -12.02606 -2 1.268264 -10.72628 -2 5.584044 -11.11446 -2 4.764813 -14.53732 -2 -1.599096 -14.45584 -2 -2.217926 -14.09335 -2 -1.291266 -13.94734 -2 -2.400367 -13.62085 -2 -1.029336 -13.12454 -2 -0.8159266 -12.01069 -2 -3.894476 -10.73344 -2 -5.570272 -10.47263 -2 -6.046376 -2.608756 -2 -12.88852 -2.531076 -2 -13.42314 -1.029336 -2 -13.62085 -2.400367 -2 -13.94734 -1.291266 -2 -14.09335 -2.217926 -2 -14.45584 -1.599096 -2 -14.53732 31.05389 -2 -1.723416 30.75 -2 -1.749996 30.75 -2 -3.999996 30.44611 -2 -1.723416 29.40942 -2 -1.124876 29.23446 -2 -0.8749962 -0.3038864 -2 -1.723416 -1.515547 -2 -0.8749962 -1.644466 -2 -0.5985365 -1.723416 -2 -0.3038864 1.515544 -2 -0.8749962 1.340573 -2 -1.124876 8.550866 -2 -8.550868 1.124874 -2 -1.340576 0.8749933 -2 -1.515547 0.5985336 -2 -1.644466 12.59099 -2 -4.276446 11.24664 -2 -5.739028 12.96737 -2 -4.588203 11.77415 -2 -5.855659 13.31401 -2 -4.932708 10.47262 -2 -6.046376 10.73343 -2 -5.570272 -11.44017 -2 3.918813 -11.7016 -2 3.050784 -11.89726 -2 2.165605 -12.3488 -2 -2.632627 -12.6094 -2 -0.6531868 -12.88851 -2 -2.608756 -13.42314 -2 -2.531076 -11.28134 -2 -7.701856 -9.857403 -2 -8.703508 -10.95823 -2 -7.268888 -10.59347 -2 -6.870371 -11.79014 -2 -8.653515 -11.41016 -2 -9.148707 -11.55957 -2 -8.164944 -10.87857 -2 -9.052447 -10.35925 -2 -8.903549 -8.550868 -2 -8.550868 -8.15849 -2 -8.926014 -8.454321 -2 -9.378062 -6.870371 -2 -10.59347 -8.703508 -2 -9.857403 -7.268887 -2 -10.95823 -8.90355 -2 -10.35925 -7.701855 -2 -11.28134 -9.052447 -2 -10.87857 -8.164942 -2 -11.55957 -9.148705 -2 -11.41017 -8.653515 -2 -11.79014 -5.883802 -2 -13.38923 -5.307141 -2 -13.62809 -5.928411 -2 -12.85083 -4.894894 -2 -13.27893 -5.918996 -2 -12.31067 -5.855658 -2 -11.77415 30.15147 -2 -1.644466 29.875 -2 -1.515547 29.62513 -2 -1.340576 29 -2 -6.67572e-6 -6.67572e-6 -2 1.750003 0.3038836 -2 1.723414 32.47341 -2 -0.3038864 34.7421 -2 -0.2511664 32.5 -2 -6.67572e-6 34.7421 -2 0.2511635 32.47341 -2 0.3038836 34.67914 -2 0.7495241 32.39447 -2 0.5985336 32.26554 -2 -0.8749962 34.3693 -2 -1.703116 32.39447 -2 -0.5985365 34.55422 -2 -1.236066 34.67914 -2 -0.749526 -1.644466 -2 0.5985336 -1.515547 -2 0.8749933 1.029334 -2 -13.62085 1.291264 -2 -14.09335 2.400363 -2 -13.94734 1.599093 -2 -14.53732 2.217923 -2 -14.45584 13.38923 -2 -5.883803 13.62809 -2 -5.307141 12.85083 -2 -5.928411 12.31066 -2 -5.918996 -4.519596 -2 -12.89032 -4.185006 -2 -12.46616 -5.739028 -2 -11.24665 -3.894476 -2 -12.01069 -3.650907 -2 -11.52846 29.40942 -2 1.124874 29.62513 -2 1.340573 30.75 -2 4.000003 29.875 -2 1.515544 30.15147 -2 1.644464 31.625 -2 -1.515547 33.10113 -2 -3.236066 31.87487 -2 -1.340576 33.48819 -2 -2.915876 32.09058 -2 -1.124876 33.83205 -2 -2.549696 34.12731 -2 -2.143307 -6.484113 -2 10.20739 -0.8749962 -2 1.515544 -5.701227 -2 10.66445 -4.886302 -2 11.06158 -0.5985365 -2 1.644464 -4.043917 -2 11.39654 -3.178806 -2 11.66746 -0.3038864 -2 1.723414 -2.295826 -2 11.87281 5.307143 -2 -13.62809 5.883803 -2 -13.38923 4.894895 -2 -13.27893 5.928403 -2 -12.85083 5.918994 -2 -12.31067 4.185004 -2 -12.46616 4.519593 -2 -12.89032 3.894473 -2 -12.01069 5.855653 -2 -11.77415 -13.62809 -2 -5.307141 -13.38923 -2 -5.883803 -13.27893 -2 -4.894895 -12.85083 -2 -5.928411 -12.89032 -2 -4.519596 -12.31067 -2 -5.918996 0.5985336 -2 1.644464 29.02659 -2 -0.3038864 29.10553 -2 -0.5985365 30.44611 -2 1.723414 30.75 -2 1.750003 31.25134 -2 3.968453 31.05389 -2 1.723414 31.74476 -2 3.874333 31.34853 -2 1.644464 34.55422 -2 1.236064 34.3693 -2 1.703114 32.26554 -2 0.8749933 34.12731 -2 2.143304 32.09058 -2 1.124874 33.83205 -2 2.549693 31.87487 -2 1.340573 31.25134 -2 -3.968456 31.74476 -2 -3.874336 31.34853 -2 -1.644466 32.2225 -2 -3.719107 32.67701 -2 -3.505226 1.314564 -2 12.02108 0.4103336 -2 12.08578 33.48819 -2 2.915874 33.10113 -2 3.236064 31.625 -2 1.515544 32.67701 -2 3.505223 32.2225 -2 3.719104 10.68633 -2 5.660113 10.23228 -2 6.444755 9.720735 -2 7.193183 9.154563 -2 7.901174 8.536933 -2 8.564775 7.871333 -2 9.180226 7.161504 -2 9.744105 6.411414 -2 10.25321 -0.4962063 -2 12.08256 -1.399946 -2 12.01144 11.08032 -2 4.843673 5.625304 -2 10.70469 4.807574 -2 11.09602 3.962834 -2 11.42499 3.095813 -2 11.68976 2.211404 -2 11.88883</float_array>
+          <technique_common>
+            <accessor source="#gear1-mesh-positions-array" count="554" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <source id="gear1-mesh-normals">
+          <float_array id="gear1-mesh-normals-array" count="1344">0 1 0 0 1 -1.5168e-6 0 1 5.05529e-7 0 1 8.93806e-7 0 1 -8.83058e-7 0 1 1.21234e-6 0 1 -4.07166e-7 0 1 6.04373e-7 0 1 0 0 1 -1.1992e-6 0 1 -3.90351e-7 0 1 6.0416e-7 0 1 -2.03585e-7 0 1 -2.03457e-6 0 1 -1.18954e-6 0 1 7.28446e-7 0 1 -9.94436e-7 0 1 0 0 1 -1.52538e-7 0 1 7.62686e-7 0 1 -4.78796e-7 0 1 -1.04638e-6 0 1 -5.67462e-7 0 1 4.44694e-7 0 1 4.15025e-7 0 -1 0 0 -1 -1.98884e-7 0 -1 -7.93112e-7 0 -1 1.57353e-7 0 -1 -5.7788e-7 0 -1 -1.51042e-7 0 -1 6.94824e-7 0 -1 1.52533e-7 0 -1 -3.02079e-7 0 -1 1.52533e-7 0 -1 -1.65438e-7 0 -1 2.0534e-6 0 -1 9.9643e-7 0 -1 -1.57646e-7 0 -1 4.55465e-7 0 -1 1.18953e-6 0 -1 0 0 -1 0 0.06280708 0 0.9980257 0.187372 0 0.9822891 0.3090189 0 0.9510559 0.3090198 0 0.9510557 0.4257874 0 0.9048233 0.5358344 0 0.8443231 0.5358351 0 0.8443227 0.6374055 0 0.7705286 0.7289748 0 0.6845407 0.8090184 0 0.5877833 0.8090181 0 0.5877838 0.8763097 0 0.4817482 0.929777 0 0.3681232 0.9685844 0 0.2486855 0.9921138 0 0.1253411 0.9921137 0 0.1253411 1 0 0 0.9921137 0 -0.1253413 0.9921137 0 -0.1253412 0.9685844 0 -0.2486855 0.929777 0 -0.3681234 0.929777 0 -0.3681232 0.8763102 0 -0.4817474 0.8090181 0 -0.5877838 0.8090184 0 -0.5877833 0.7289739 0 -0.6845416 0.6374061 0 -0.7705281 0.6374055 0 -0.7705286 0.5358358 0 -0.8443223 0.4257874 0 -0.9048233 0.3090198 0 -0.9510557 0.187372 0 -0.9822891 0.06278723 0 -0.998027 0 0 -1 0.5656672 0 0.8246337 0.5656678 0 0.8246333 0.6378958 0 0.7701227 0.7049188 0 0.709288 0.7049198 0 0.709287 0.766152 0 0.6426594 0.7661513 0 0.6426603 0.9238802 0 -0.3826819 0.08257019 0 -0.9965853 -0.01742815 0 -0.9998482 -0.01742643 0 -0.9998483 -0.1172403 0 -0.9931036 -0.1172385 0 -0.9931039 -0.2158842 0 -0.976419 -0.2158825 0 -0.9764194 -0.3123714 0 -0.9499601 -0.3123698 0 -0.9499606 0.8770293 0 -0.4804371 0.8545878 0 -0.5193071 0.8545882 0 -0.5193064 0.6665067 0 0.7454991 0.7376596 0 0.6751729 0.7376587 0 0.6751738 0.8014332 0 0.5980845 0.8571851 0 0.5150086 0.8571846 0 0.5150095 0.9043518 0 0.4267879 0.7933566 0 -0.6087571 -0.1781786 0 -0.9839982 -0.275614 0 -0.9612685 -0.2756107 0 -0.9612694 -0.3702838 0 -0.9289187 -0.461242 0 -0.8872744 -0.4612448 0 -0.887273 -0.5475943 0 -0.836744 0.7228001 0 -0.6910572 0.7227984 0 -0.691059 0.6910563 0 -0.722801 0.6910545 0 -0.7228027 0.8367488 0 0.5475869 0.8872693 0 0.461252 0.9289208 0 0.3702786 0.9289213 0 0.3702774 0.9612687 0 0.2756128 0.9839981 0 0.1781789 0.9839983 0 0.1781783 0.6087596 0 -0.7933548 -0.4267908 0 -0.9043505 -0.4267879 0 -0.9043518 -0.5150092 0 -0.8571847 -0.5150066 0 -0.8571863 -0.5980809 0 -0.8014358 -0.5980832 0 -0.801434 -0.6751707 0 -0.7376616 -0.6751726 0 -0.7376598 -0.7455026 0 -0.6665028 0.5193075 0 -0.8545875 0.4804407 0 -0.8770273 0.4804379 0 -0.8770288 0.9499632 0 0.3123621 0.9764193 0 0.2158833 0.993103 0 0.117245 0.9998484 0 0.01741617 0.9998484 0 0.01741611 0.9965865 0 -0.08255547 0.9965865 0 -0.08255517 0.382682 0 -0.9238802 0.3826845 0 -0.9238791 -0.6463024 0 -0.7630815 -0.6463044 0 -0.7630797 -0.7193148 0 -0.6946843 -0.7193166 0 -0.6946825 -0.7851296 0 -0.6193317 -0.8430864 0 -0.5377783 -0.8430853 0 -0.5377799 -0.8926018 0 -0.450846 -0.8926026 0 -0.4508445 0.2804453 0 -0.9598701 0.280442 0 -0.9598711 0.2370796 0 -0.9714903 0.9984394 0 0.05584734 0.9990234 0 -0.04418557 0.9990234 0 -0.04418569 0.9896084 0 -0.1437892 0.97029 0 -0.2419449 0.9412524 0 -0.3377038 0.9412528 0 -0.3377028 0.1305412 0 -0.9914429 0.1305382 0 -0.9914433 -0.8217889 0 -0.5697922 -0.8746048 0 -0.4848366 -0.9186716 0 -0.3950222 -0.9186711 0 -0.3950235 -0.9535484 0 -0.3012397 -0.9535488 0 -0.3012388 -0.9788742 0 -0.2044633 -0.9788742 0 -0.2044641 0.02243703 0 -0.9997483 -0.02243745 0 -0.9997484 0.978874 0 -0.2044641 0.9788742 0 -0.2044634 0.9535488 0 -0.3012388 0.9535484 0 -0.3012399 0.9186717 0 -0.3950221 0.9186722 0 -0.3950208 0.8746048 0 -0.4848366 0.8217881 0 -0.5697934 -0.1305381 0 -0.9914433 -0.1305412 0 -0.991443 -0.9412523 0 -0.3377043 -0.9412519 0 -0.3377054 -0.970291 0 -0.2419412 -0.9896084 0 -0.1437897 -0.9990234 0 -0.04418528 -0.9990234 0 -0.0441851 -0.9984394 0 0.05584686 -0.2370796 0 -0.9714903 -0.2804411 0 -0.9598712 -0.2804443 0 -0.9598703 0.8926035 0 -0.4508428 0.8926027 0 -0.4508442 0.8430857 0 -0.5377793 0.8430867 0 -0.5377777 0.7851287 0 -0.6193327 0.7193205 0 -0.6946784 0.7193188 0 -0.6946802 0.6463057 0 -0.7630786 0.6463037 0 -0.7630804 -0.3826838 0 -0.9238795 -0.3826812 0 -0.9238806 -0.9965852 0 -0.0825718 -0.9965851 0 -0.0825721 -0.9998482 0 0.01742756 -0.9998482 0 0.01742762 -0.9931038 0 0.1172389 -0.9764186 0 0.2158858 -0.9499605 0 0.3123701 -0.4804357 0 -0.87703 -0.4804384 0 -0.8770285 -0.5193067 0 -0.854588 0.7454991 0 -0.6665067 0.6751762 0 -0.7376565 0.6751742 0 -0.7376583 0.5980845 0 -0.8014332 0.5980822 0 -0.8014348 0.5150085 0 -0.857185 0.5150111 0 -0.8571835 0.4267865 0 -0.9043525 0.4267894 0 -0.9043511 -0.6087596 0 -0.7933548 -0.9839989 0 0.1781749 -0.9839987 0 0.1781755 -0.9612693 0 0.2756112 -0.9289213 0 0.3702774 -0.9289208 0 0.3702786 -0.8872706 0 0.4612492 -0.8367472 0 0.5475894 -0.6910563 0 -0.722801 -0.6910581 0 -0.7227993 -0.7227993 0 -0.6910581 -0.722801 0 -0.6910563 0.547591 0 -0.8367462 0.4612492 0 -0.8872708 0.4612463 0 -0.8872721 0.3702765 0 -0.9289216 0.2756112 0 -0.9612693 0.2756145 0 -0.9612683 0.1781817 0 -0.9839977 -0.7933486 0 -0.6087678 -0.9043512 0 0.4267894 -0.8571846 0 0.5150095 -0.8571851 0 0.5150086 -0.8014339 0 0.5980833 -0.7376579 0 0.6751747 -0.7376587 0 0.6751739 -0.6665067 0 0.7454991 -0.8545882 0 -0.5193064 -0.8545878 0 -0.5193071 -0.8770293 0 -0.4804371 0.3123693 0 -0.9499608 0.3123708 0 -0.9499602 0.2158866 0 -0.9764184 0.2158883 0 -0.9764181 0.1172363 0 -0.9931041 0.117238 0 -0.9931039 0.01742672 0 -0.9998482 0.01742851 0 -0.9998482 -0.08257019 0 -0.9965853 -0.9238802 0 -0.3826819 -0.7630788 0 0.6463056 -0.6946797 0 0.7193192 -0.6946806 0 0.7193183 -0.6193327 0 0.7851287 -0.5377784 0 0.8430862 -0.4508301 0 0.8926098 -0.9598721 0 -0.2804382 -0.9714903 0 -0.2370796 0.05584686 0 -0.9984394 -0.04418599 0 -0.9990233 -0.1437872 0 -0.9896087 -0.2419408 0 -0.970291 -0.2419416 0 -0.9702908 -0.3377053 0 -0.9412519 -0.3377045 0 -0.9412523 -0.9914432 0 -0.1305396 -0.9914432 0 -0.1305397 -0.5697935 0 0.821788 -0.5697932 0 0.8217881 -0.4848366 0 0.8746048 -0.3950216 0 0.9186719 -0.3950214 0 0.918672 -0.3012395 0 0.9535486 -0.3012393 0 0.9535486 -0.2044638 0 0.9788742 -0.9999727 0 -0.007401764 -0.9977172 0 0.06753063 -0.9977173 0 0.06753063 -0.9898552 0 0.1420794 -0.976431 0 0.2158299 -0.9575154 0 0.2883821 -0.9575155 0 0.288382 -0.9332256 0 0.359291 -0.9332256 0 0.3592912 -0.903685 0 0.428198 -0.8690662 0 0.4946959 -0.8295714 0 0.5584008 -0.7854043 0 0.6189832 -0.7854039 0 0.6189838 -0.7368323 0 0.6760757 -0.6841092 0 0.7293797 -0.6841081 0 0.7293807 -0.627549 0 0.7785772 -0.6275503 0 0.7785761 -0.5674598 0 0.8234012 -0.5674612 0 0.8234002 -0.5041807 0 0.8635982 -0.4380713 0 0.8989403 -0.438073 0 0.8989395 -0.3694929 0 0.9292337 -0.3694947 0 0.9292328 -0.2988504 0 0.9543 -0.2265185 0 0.9740069 -0.2265204 0 0.9740065 -0.1529216 0 0.9882383 -0.07845187 0 0.9969179 -0.07845401 0 0.9969178 -0.003551483 0 0.9999938 -0.003553569 0 0.9999938 0.07136917 0 0.99745 0.07137125 0 0.9974499 0.1458864 0 0.9893014 0.1458844 0 0.9893017 0.219594 0 0.9755914 0.2920628 0 0.9563993 0.2920647 0 0.9563987 0.362887 0 0.9318332 0.431673 0 0.9020303 0.4316713 0 0.9020311 0.4980282 0 0.8671609 0.4980298 0 0.86716 0.5615893 0 0.8274162 0.6220114 0 0.7830082 0.6789065 0 0.7342249 0.6789053 0 0.7342259 0.7320069 0 0.6812972 0.7320065 0 0.6812977 0.7809881 0 0.624546 0.7809877 0 0.6245465 0.8255834 0 0.5642801 0.8255831 0 0.5642806 0.8655298 0 0.5008574 0.900618 0 0.4346116 0.9006182 0 0.4346112 0.9306509 0 0.3659086 0 0 1 -0.08713263 0 0.9961967 -0.0871334 0 0.9961967 -0.2588151 0 0.9659269 -0.422628 0 0.9063033 -0.4226286 0 0.9063029 -0.5735825 0 0.8191478 -0.5735821 0 0.8191482 -0.7071084 0 0.7071052 -0.7071088 0 0.7071049 -0.8191471 0 0.5735836 -0.9063019 0 0.4226313 -0.9659269 0 0.258815 -0.996194 0 0.08716547 -0.9961941 0 -0.08716249 -0.9659269 0 -0.2588151 -0.9063019 0 -0.4226313 -0.819148 0 -0.5735823 -0.7071068 0 -0.7071068 -0.5735821 0 -0.8191482 -0.5735825 0 -0.8191478 -0.4226313 0 -0.9063019 -0.2588151 0 -0.9659269 -0.08716213 0 -0.9961943 -0.08716285 0 -0.9961941 0.08716589 0 -0.9961938 0.08716511 0 -0.996194 0.258815 0 -0.9659269 0.4226313 0 -0.9063019 0.5735839 0 -0.8191469 0.5735833 0 -0.8191473 0.7071051 0 -0.7071086 0.819148 0 -0.5735823 0.9063032 0 -0.4226284 0.9659269 0 -0.2588151 0.9961967 0 -0.08713299 0.9961965 0 0.08713603 0.9659269 0 0.258815 0.9063032 0 0.4226284 0.8191471 0 0.5735836 0.707107 0 0.7071066 0.7071066 0 0.707107 0.5735833 0 0.8191473 0.5735839 0 0.8191469 0.4226286 0 0.9063029 0.422628 0 0.9063033 0.258815 0 0.9659269 0.08713638 0 0.9961965 0.08713561 0 0.9961965 -0.08713316 0 0.9961967 -0.08713394 0 0.9961966 -0.258822 0 0.965925 -0.4226124 0 0.9063106 -0.4226131 0 0.9063103 -0.5736044 0 0.8191325 -0.5736039 0 0.8191329 -0.7070876 0 0.7071259 -0.7070881 0 0.7071256 -0.8191623 0 0.5735618 -0.9062905 0 0.4226557 -0.9659371 0 0.2587771 -0.9961929 0 0.08717596 -0.9961933 0 -0.08717298 -0.9659371 0 -0.2587772 -0.9062905 0 -0.4226557 -0.8191632 0 -0.5735605 -0.7070861 0 -0.7071275 -0.5736039 0 -0.8191329 -0.5736044 0 -0.8191325 -0.4226157 0 -0.906309 -0.258822 0 -0.965925 -0.08716267 0 -0.9961941 -0.08716344 0 -0.9961941 0.08716291 0 -0.9961941 0.08716213 0 -0.9961941 0.2588236 0 -0.9659247 0.4226204 0 -0.9063068 0.5735956 0 -0.8191387 0.5735951 0 -0.8191391 0.7070892 0 -0.7071244 0.8191632 0 -0.5735605 0.9062905 0 -0.4226557 0.965934 0 -0.2587888 0.9961943 0 -0.08716052 0.996194 0 0.08716356 0.965934 0 0.2587888 0.9062905 0 0.4226557 0.8191623 0 0.5735618 0.7070912 0 0.7071225 0.7070908 0 0.7071228 0.5735951 0 0.8191391 0.5735956 0 0.8191387 0.4226179 0 0.906308 0.4226173 0 0.9063084 0.2588236 0 0.9659247 0.0871334 0 0.9961967 0.08713263 0 0.9961968</float_array>
+          <technique_common>
+            <accessor source="#gear1-mesh-normals-array" count="448" stride="3">
+              <param name="X" type="float"/>
+              <param name="Y" type="float"/>
+              <param name="Z" type="float"/>
+            </accessor>
+          </technique_common>
+        </source>
+        <vertices id="gear1-mesh-vertices">
+          <input semantic="POSITION" source="#gear1-mesh-positions"/>
+        </vertices>
+        <triangles count="1112">
+          <input semantic="VERTEX" source="#gear1-mesh-vertices" offset="0"/>
+          <input semantic="NORMAL" source="#gear1-mesh-normals" offset="1"/>
+          <p>0 0 1 0 2 0 3 0 4 0 5 0 5 1 4 1 6 1 5 2 6 2 7 2 8 0 9 0 10 0 10 0 9 0 11 0 12 0 13 0 5 0 5 3 13 3 14 3 5 4 14 4 3 4 5 0 15 0 16 0 17 0 18 0 19 0 20 0 21 0 2 0 0 0 2 0 22 0 7 0 23 0 5 0 5 5 23 5 24 5 5 6 24 6 25 6 25 7 24 7 26 7 25 0 26 0 27 0 11 0 28 0 10 0 10 0 28 0 29 0 10 0 29 0 5 0 5 0 29 0 30 0 5 0 30 0 15 0 31 0 12 0 32 0 32 8 12 8 5 8 32 0 5 0 33 0 33 0 5 0 16 0 34 0 35 0 36 0 37 0 38 0 39 0 20 9 2 9 40 9 41 0 42 0 43 0 44 0 45 0 46 0 46 0 45 0 47 0 48 0 49 0 50 0 50 0 49 0 43 0 50 0 43 0 51 0 52 0 53 0 49 0 54 0 55 0 56 0 56 0 55 0 57 0 56 0 57 0 58 0 58 0 57 0 40 0 58 0 40 0 37 0 37 0 40 0 2 0 37 0 2 0 38 0 59 0 60 0 1 0 1 0 60 0 61 0 1 0 61 0 62 0 63 0 64 0 65 0 65 0 64 0 66 0 65 0 66 0 67 0 1 0 68 0 2 0 2 0 68 0 69 0 2 0 69 0 70 0 70 0 69 0 71 0 70 0 71 0 63 0 63 0 71 0 72 0 63 0 72 0 64 0 73 0 74 0 26 0 26 0 74 0 75 0 26 0 75 0 27 0 76 0 77 0 78 0 78 0 77 0 79 0 80 0 81 0 82 0 82 0 81 0 83 0 82 0 83 0 84 0 84 0 83 0 85 0 84 0 85 0 86 0 46 0 87 0 88 0 88 0 87 0 89 0 88 0 89 0 90 0 90 0 89 0 91 0 90 0 91 0 92 0 93 0 94 0 95 0 95 0 94 0 96 0 97 0 98 0 99 0 99 0 98 0 100 0 99 0 100 0 54 0 54 0 100 0 101 0 54 0 101 0 55 0 102 0 103 0 104 0 104 0 103 0 105 0 106 0 107 0 105 0 105 10 107 10 108 10 105 0 108 0 104 0 106 0 109 0 107 0 107 0 109 0 110 0 107 0 110 0 111 0 111 0 110 0 22 0 111 0 22 0 112 0 112 0 22 0 2 0 112 0 2 0 113 0 114 0 115 0 116 0 116 0 115 0 117 0 116 0 117 0 118 0 118 0 117 0 119 0 77 0 120 0 79 0 79 0 120 0 121 0 79 11 121 11 73 11 73 0 121 0 122 0 73 12 122 12 74 12 76 0 78 0 123 0 123 0 78 0 124 0 123 0 124 0 125 0 126 0 127 0 128 0 128 0 127 0 129 0 130 0 131 0 132 0 132 0 131 0 133 0 134 0 135 0 31 0 31 13 135 13 136 13 31 14 136 14 12 14 85 0 137 0 86 0 86 0 137 0 138 0 86 0 138 0 139 0 139 0 138 0 140 0 139 0 140 0 141 0 142 0 143 0 144 0 144 0 143 0 145 0 144 0 145 0 146 0 146 0 145 0 147 0 146 0 147 0 80 0 80 0 147 0 148 0 80 0 148 0 81 0 149 0 150 0 49 0 150 0 151 0 49 0 49 0 151 0 152 0 49 0 152 0 43 0 43 15 152 15 153 15 43 16 153 16 41 16 39 0 87 0 37 0 37 17 87 17 46 17 37 0 46 0 154 0 154 0 46 0 47 0 154 0 47 0 155 0 49 0 156 0 157 0 117 0 158 0 119 0 119 0 158 0 159 0 119 0 159 0 160 0 160 0 159 0 161 0 160 0 161 0 62 0 62 0 161 0 162 0 62 0 162 0 1 0 1 0 162 0 163 0 1 0 163 0 68 0 127 0 164 0 129 0 129 0 164 0 165 0 129 0 165 0 124 0 124 0 165 0 166 0 124 0 166 0 125 0 133 0 167 0 132 0 132 0 167 0 168 0 132 0 168 0 169 0 169 0 168 0 170 0 169 0 170 0 171 0 10 0 172 0 8 0 8 0 172 0 173 0 8 0 173 0 174 0 174 0 173 0 175 0 174 0 175 0 142 0 142 0 175 0 176 0 142 0 176 0 143 0 34 0 177 0 17 0 17 0 177 0 178 0 17 0 178 0 18 0 126 0 128 0 49 0 49 0 128 0 179 0 49 0 179 0 149 0 42 0 180 0 43 0 43 18 180 18 181 18 43 0 181 0 182 0 182 0 181 0 183 0 182 0 183 0 46 0 46 19 183 19 184 19 46 20 184 20 44 20 185 0 186 0 96 0 96 0 186 0 187 0 96 0 187 0 95 0 43 0 188 0 51 0 51 0 188 0 186 0 51 0 186 0 189 0 189 0 186 0 185 0 53 0 190 0 49 0 49 0 190 0 191 0 49 0 191 0 156 0 113 0 2 0 192 0 192 0 2 0 193 0 192 0 193 0 194 0 194 0 193 0 195 0 194 0 195 0 196 0 31 0 130 0 134 0 134 0 130 0 132 0 134 0 132 0 34 0 34 0 132 0 197 0 34 0 197 0 35 0 198 0 199 0 200 0 200 0 199 0 201 0 200 0 201 0 202 0 140 0 203 0 141 0 141 0 203 0 204 0 141 0 204 0 205 0 205 0 204 0 206 0 205 0 206 0 207 0 207 0 206 0 208 0 207 0 208 0 198 0 198 0 208 0 209 0 198 0 209 0 199 0 210 0 211 0 212 0 213 0 214 0 215 0 215 0 214 0 216 0 215 0 216 0 92 0 92 0 216 0 217 0 92 0 217 0 90 0 48 0 218 0 49 0 49 0 218 0 219 0 49 0 219 0 220 0 1 0 221 0 59 0 59 0 221 0 222 0 59 0 222 0 223 0 223 0 222 0 224 0 223 0 224 0 225 0 225 0 224 0 226 0 225 0 226 0 227 0 227 0 226 0 228 0 227 0 228 0 229 0 36 0 230 0 34 0 34 0 230 0 231 0 34 0 231 0 177 0 177 0 231 0 210 0 177 0 210 0 232 0 232 0 210 0 212 0 47 0 17 0 155 0 155 0 17 0 19 0 155 0 19 0 233 0 233 0 19 0 234 0 233 0 234 0 235 0 235 0 234 0 236 0 235 0 236 0 237 0 237 0 236 0 238 0 237 0 238 0 239 0 239 0 238 0 240 0 239 0 240 0 241 0 220 0 242 0 49 0 49 0 242 0 243 0 49 0 243 0 52 0 244 0 245 0 246 0 246 0 245 0 157 0 245 0 247 0 157 0 157 0 247 0 248 0 157 21 248 21 249 21 250 0 251 0 252 0 252 0 251 0 253 0 252 0 253 0 254 0 254 0 253 0 255 0 195 0 256 0 196 0 196 0 256 0 257 0 196 0 257 0 258 0 258 0 257 0 259 0 258 0 259 0 260 0 260 0 259 0 261 0 260 0 261 0 262 0 249 0 263 0 157 0 157 22 263 22 264 22 157 23 264 23 49 23 253 0 265 0 255 0 255 0 265 0 266 0 255 0 266 0 267 0 267 0 266 0 268 0 267 0 268 0 21 0 21 0 268 0 269 0 21 0 269 0 2 0 2 24 269 24 270 24 2 0 270 0 193 0 171 0 271 0 169 0 169 0 271 0 272 0 169 0 272 0 273 0 273 0 272 0 274 0 273 0 274 0 275 0 275 0 274 0 202 0 275 0 202 0 276 0 276 0 202 0 201 0 277 25 278 25 279 25 280 25 281 25 282 25 283 25 284 25 285 25 285 26 284 26 286 26 285 25 286 25 287 25 288 25 289 25 290 25 291 25 292 25 293 25 294 25 295 25 285 25 285 25 295 25 296 25 285 25 296 25 283 25 297 25 298 25 299 25 299 25 298 25 300 25 299 25 300 25 301 25 301 25 300 25 302 25 303 27 304 27 305 27 306 25 307 25 308 25 309 25 310 25 311 25 312 25 313 25 314 25 314 25 313 25 315 25 314 25 315 25 316 25 281 25 317 25 282 25 282 25 317 25 318 25 282 25 318 25 319 25 319 25 318 25 320 25 319 25 320 25 321 25 279 25 291 25 322 25 322 25 291 25 293 25 322 25 293 25 323 25 323 25 293 25 280 25 323 25 280 25 324 25 324 25 280 25 282 25 300 25 325 25 302 25 302 25 325 25 326 25 302 25 326 25 327 25 327 25 326 25 328 25 327 25 328 25 285 25 285 25 328 25 329 25 285 28 329 28 294 28 288 25 330 25 289 25 289 25 330 25 331 25 289 25 331 25 332 25 332 25 331 25 333 25 332 25 333 25 334 25 335 25 336 25 337 25 338 25 339 25 289 25 289 25 339 25 335 25 289 25 335 25 340 25 340 25 335 25 337 25 340 25 337 25 341 25 341 25 337 25 342 25 341 25 342 25 343 25 344 25 345 25 346 25 346 25 345 25 347 25 348 25 349 25 340 25 340 25 349 25 350 25 340 25 350 25 351 25 289 29 352 29 353 29 289 25 354 25 355 25 355 30 354 30 356 30 355 25 356 25 357 25 357 25 356 25 358 25 359 25 360 25 361 25 361 25 360 25 362 25 361 25 362 25 363 25 363 25 362 25 312 25 363 25 312 25 291 25 291 25 312 25 314 25 291 25 314 25 292 25 307 25 306 25 364 25 364 25 306 25 365 25 364 25 365 25 366 25 367 25 368 25 369 25 369 25 368 25 370 25 369 25 370 25 371 25 371 25 370 25 372 25 311 25 310 25 373 25 373 25 310 25 374 25 373 25 374 25 331 25 331 25 374 25 375 25 331 25 375 25 333 25 342 25 376 25 343 25 343 25 376 25 377 25 343 25 377 25 378 25 378 25 377 25 379 25 378 25 379 25 380 25 380 25 379 25 381 25 380 25 381 25 382 25 383 25 384 25 385 25 385 25 384 25 386 25 303 25 387 25 388 25 279 25 278 25 340 25 340 25 278 25 389 25 340 25 389 25 348 25 351 25 390 25 340 25 340 25 390 25 391 25 340 25 391 25 289 25 289 25 391 25 392 25 289 31 392 31 352 31 287 25 393 25 285 25 285 32 393 32 394 32 285 25 394 25 395 25 395 33 394 33 396 33 395 25 396 25 322 25 322 34 396 34 397 34 322 25 397 25 279 25 279 25 397 25 398 25 279 25 398 25 277 25 399 25 400 25 401 25 401 25 400 25 402 25 401 25 402 25 403 25 329 25 404 25 294 25 294 25 404 25 405 25 294 25 405 25 305 25 305 25 405 25 400 25 305 25 400 25 303 25 303 25 400 25 399 25 406 25 407 25 366 25 366 25 407 25 408 25 366 25 408 25 364 25 290 25 306 25 288 25 288 25 306 25 308 25 288 25 308 25 409 25 409 25 308 25 410 25 409 25 410 25 411 25 411 25 410 25 372 25 411 25 372 25 412 25 412 25 372 25 370 25 413 25 414 25 415 25 415 25 414 25 334 25 415 25 334 25 416 25 416 25 334 25 333 25 417 25 418 25 419 25 419 25 418 25 420 25 419 25 420 25 413 25 413 25 420 25 421 25 413 25 421 25 414 25 332 25 422 25 289 25 289 25 422 25 423 25 289 25 423 25 338 25 338 25 423 25 424 25 338 25 424 25 425 25 425 25 424 25 426 25 425 25 426 25 427 25 427 25 426 25 428 25 427 25 428 25 429 25 429 25 428 25 430 25 429 25 430 25 431 25 431 25 430 25 432 25 431 25 432 25 433 25 434 25 435 25 436 25 436 25 435 25 437 25 436 25 437 25 438 25 438 25 437 25 439 25 386 25 440 25 385 25 385 25 440 25 441 25 385 35 441 35 303 35 303 36 441 36 442 36 303 25 442 25 387 25 443 37 444 37 445 37 446 25 447 25 448 25 448 25 447 25 449 25 448 25 449 25 450 25 450 25 449 25 451 25 450 25 451 25 452 25 453 25 454 25 455 25 455 25 454 25 456 25 455 25 456 25 446 25 446 25 456 25 457 25 446 25 457 25 447 25 353 25 458 25 289 25 289 38 458 38 459 38 289 39 459 39 354 39 361 25 460 25 359 25 359 25 460 25 461 25 359 25 461 25 462 25 462 25 461 25 463 25 462 25 463 25 464 25 465 25 466 25 467 25 467 25 466 25 403 25 467 25 403 25 468 25 468 25 403 25 402 25 437 25 469 25 439 25 439 25 469 25 470 25 439 25 470 25 471 25 471 25 470 25 472 25 471 25 472 25 335 25 335 25 472 25 473 25 335 25 473 25 336 25 347 25 474 25 346 25 346 25 474 25 475 25 346 25 475 25 476 25 476 25 475 25 477 25 476 25 477 25 478 25 479 25 480 25 481 25 481 25 480 25 482 25 481 25 482 25 483 25 483 25 482 25 484 25 483 25 484 25 453 25 453 25 484 25 485 25 453 25 485 25 454 25 358 25 356 25 486 25 486 25 356 25 487 25 486 25 487 25 488 25 488 25 487 25 489 25 489 25 487 25 490 25 489 25 490 25 491 25 491 25 490 25 492 25 492 25 490 25 493 25 492 25 493 25 494 25 495 25 496 25 497 25 497 25 496 25 498 25 499 25 500 25 498 25 498 25 500 25 501 25 498 25 501 25 497 25 315 25 502 25 316 25 316 25 502 25 500 25 316 25 500 25 503 25 503 25 500 25 499 25 504 25 505 25 506 25 506 25 505 25 507 25 506 25 507 25 508 25 508 25 507 25 311 25 311 25 507 25 509 25 311 25 509 25 309 25 445 25 510 25 443 25 443 40 510 40 304 40 443 25 304 25 511 25 511 41 304 41 303 41 511 25 303 25 512 25 512 25 303 25 388 25 478 25 513 25 476 25 476 25 513 25 514 25 476 25 514 25 515 25 515 25 514 25 516 25 515 25 516 25 517 25 517 25 516 25 518 25 451 25 519 25 452 25 452 25 519 25 520 25 452 25 520 25 521 25 521 25 520 25 522 25 521 25 522 25 523 25 523 25 522 25 524 25 523 25 524 25 525 25 385 25 526 25 383 25 383 25 526 25 527 25 383 25 527 25 528 25 528 25 527 25 529 25 528 25 529 25 479 25 479 25 529 25 530 25 479 25 530 25 480 25 531 25 532 25 493 25 524 25 533 25 525 25 525 25 533 25 534 25 525 25 534 25 535 25 535 25 534 25 536 25 535 25 536 25 518 25 518 25 536 25 537 25 518 25 537 25 517 25 538 25 539 25 493 25 539 25 540 25 493 25 493 25 540 25 541 25 493 25 541 25 542 25 542 25 543 25 493 25 493 25 543 25 544 25 493 25 544 25 545 25 532 42 546 42 493 42 493 25 546 25 547 25 493 25 547 25 494 25 443 25 344 25 444 25 444 25 344 25 346 25 444 25 346 25 493 25 493 25 346 25 548 25 493 25 548 25 538 25 545 25 549 25 493 25 493 25 549 25 550 25 493 25 550 25 551 25 551 25 552 25 493 25 493 25 552 25 553 25 493 25 553 25 531 25 10 43 476 43 515 43 10 43 515 43 172 43 172 44 515 44 517 44 172 44 517 44 173 44 173 45 517 45 537 45 173 46 537 46 175 46 175 47 537 47 536 47 175 47 536 47 176 47 176 48 536 48 534 48 176 49 534 49 143 49 143 50 534 50 533 50 143 50 533 50 145 50 145 51 533 51 524 51 145 51 524 51 147 51 147 52 524 52 522 52 147 53 522 53 148 53 148 54 522 54 520 54 148 54 520 54 81 54 81 55 520 55 519 55 81 55 519 55 83 55 83 56 519 56 451 56 83 56 451 56 85 56 85 57 451 57 449 57 85 58 449 58 137 58 137 59 449 59 447 59 137 59 447 59 138 59 138 60 447 60 457 60 138 61 457 61 140 61 140 62 457 62 456 62 140 62 456 62 203 62 203 63 456 63 454 63 203 64 454 64 204 64 204 65 454 65 485 65 204 65 485 65 206 65 206 66 485 66 484 66 206 67 484 67 208 67 208 68 484 68 482 68 208 68 482 68 209 68 209 69 482 69 480 69 209 70 480 70 199 70 199 71 480 71 530 71 199 71 530 71 201 71 201 72 530 72 529 72 201 72 529 72 276 72 276 73 529 73 527 73 276 73 527 73 275 73 275 74 527 74 526 74 275 74 526 74 273 74 273 75 526 75 385 75 273 75 385 75 169 75 132 76 169 76 303 76 303 76 169 76 385 76 132 77 303 77 399 77 132 78 399 78 197 78 197 79 399 79 401 79 197 79 401 79 35 79 35 80 401 80 403 80 35 81 403 81 36 81 36 82 403 82 466 82 36 83 466 83 230 83 466 84 465 84 230 84 230 84 465 84 231 84 231 85 465 85 467 85 231 85 467 85 210 85 210 86 467 86 468 86 210 87 468 87 211 87 211 88 468 88 402 88 211 89 402 89 212 89 212 90 402 90 400 90 212 91 400 91 232 91 232 92 400 92 405 92 232 93 405 93 177 93 177 94 405 94 404 94 177 94 404 94 178 94 178 95 404 95 329 95 178 96 329 96 18 96 18 97 329 97 328 97 18 97 328 97 19 97 19 98 328 98 326 98 19 99 326 99 234 99 234 100 326 100 325 100 234 100 325 100 236 100 236 101 325 101 300 101 236 102 300 102 238 102 238 103 300 103 298 103 238 103 298 103 240 103 298 104 297 104 240 104 240 104 297 104 241 104 241 105 297 105 299 105 241 105 299 105 239 105 239 106 299 106 301 106 239 107 301 107 237 107 237 108 301 108 302 108 237 108 302 108 235 108 235 109 302 109 327 109 235 110 327 110 233 110 233 111 327 111 285 111 233 111 285 111 155 111 155 112 285 112 395 112 155 113 395 113 154 113 154 114 395 114 322 114 154 115 322 115 37 115 37 116 322 116 323 116 37 116 323 116 58 116 58 117 323 117 324 117 58 117 324 117 56 117 56 118 324 118 282 118 56 119 282 119 54 119 54 120 282 120 319 120 54 120 319 120 99 120 99 121 319 121 321 121 99 122 321 122 97 122 321 123 320 123 97 123 97 123 320 123 98 123 98 124 320 124 318 124 98 125 318 125 100 125 100 126 318 126 317 126 100 127 317 127 101 127 101 128 317 128 281 128 101 129 281 129 55 129 55 130 281 130 280 130 55 131 280 131 57 131 57 132 280 132 293 132 57 132 293 132 40 132 40 133 293 133 292 133 40 133 292 133 20 133 20 134 292 134 314 134 20 135 314 135 21 135 21 136 314 136 316 136 21 136 316 136 267 136 267 137 316 137 503 137 267 137 503 137 255 137 255 138 503 138 499 138 255 138 499 138 254 138 254 139 499 139 498 139 254 140 498 140 252 140 252 141 498 141 496 141 252 142 496 142 250 142 496 143 495 143 250 143 250 144 495 144 251 144 251 145 495 145 497 145 251 146 497 146 253 146 253 147 497 147 501 147 253 148 501 148 265 148 265 149 501 149 500 149 265 149 500 149 266 149 266 150 500 150 502 150 266 151 502 151 268 151 268 152 502 152 315 152 268 153 315 153 269 153 269 154 315 154 313 154 269 155 313 155 270 155 270 156 313 156 312 156 270 156 312 156 193 156 193 157 312 157 362 157 193 157 362 157 195 157 195 158 362 158 360 158 195 159 360 159 256 159 256 160 360 160 359 160 256 160 359 160 257 160 257 161 359 161 462 161 257 161 462 161 259 161 259 162 462 162 464 162 259 163 464 163 261 163 464 164 463 164 261 164 261 165 463 165 262 165 262 166 463 166 461 166 262 166 461 166 260 166 260 167 461 167 460 167 260 167 460 167 258 167 258 168 460 168 361 168 258 169 361 169 196 169 196 170 361 170 363 170 196 171 363 171 194 171 194 172 363 172 291 172 194 173 291 173 192 173 192 174 291 174 279 174 192 174 279 174 113 174 113 175 279 175 340 175 113 175 340 175 112 175 112 176 340 176 341 176 112 177 341 177 111 177 111 178 341 178 343 178 111 179 343 179 107 179 107 180 343 180 378 180 107 181 378 181 108 181 108 182 378 182 380 182 108 182 380 182 104 182 104 183 380 183 382 183 104 183 382 183 102 183 382 184 381 184 102 184 102 185 381 185 103 185 103 186 381 186 379 186 103 187 379 187 105 187 105 188 379 188 377 188 105 188 377 188 106 188 106 189 377 189 376 189 106 189 376 189 109 189 109 190 376 190 342 190 109 191 342 191 110 191 110 192 342 192 337 192 110 192 337 192 22 192 22 193 337 193 336 193 22 193 336 193 0 193 0 194 336 194 473 194 0 195 473 195 1 195 1 196 473 196 472 196 1 197 472 197 221 197 221 198 472 198 470 198 221 199 470 199 222 199 222 200 470 200 469 200 222 200 469 200 224 200 224 201 469 201 437 201 224 202 437 202 226 202 226 203 437 203 435 203 226 204 435 204 228 204 435 205 434 205 228 205 228 206 434 206 229 206 229 207 434 207 436 207 229 208 436 208 227 208 227 209 436 209 438 209 227 210 438 210 225 210 225 211 438 211 439 211 225 211 439 211 223 211 223 212 439 212 471 212 223 212 471 212 59 212 59 213 471 213 335 213 59 213 335 213 60 213 60 214 335 214 339 214 60 215 339 215 61 215 61 216 339 216 338 216 61 216 338 216 62 216 62 217 338 217 425 217 62 217 425 217 160 217 160 218 425 218 427 218 160 219 427 219 119 219 119 220 427 220 429 220 119 221 429 221 118 221 118 222 429 222 431 222 118 223 431 223 116 223 116 224 431 224 433 224 116 225 433 225 114 225 433 226 432 226 114 226 114 226 432 226 115 226 115 227 432 227 430 227 115 228 430 228 117 228 117 229 430 229 428 229 117 229 428 229 158 229 158 230 428 230 426 230 158 231 426 231 159 231 159 232 426 232 424 232 159 232 424 232 161 232 161 233 424 233 423 233 161 233 423 233 162 233 162 234 423 234 422 234 162 235 422 235 163 235 163 236 422 236 332 236 163 237 332 237 68 237 68 238 332 238 334 238 68 238 334 238 69 238 69 239 334 239 414 239 69 240 414 240 71 240 71 241 414 241 421 241 71 241 421 241 72 241 72 242 421 242 420 242 72 243 420 243 64 243 64 244 420 244 418 244 64 244 418 244 66 244 418 245 417 245 66 245 66 245 417 245 67 245 67 246 417 246 419 246 67 246 419 246 65 246 65 247 419 247 413 247 65 248 413 248 63 248 63 249 413 249 415 249 63 249 415 249 70 249 70 250 415 250 416 250 70 251 416 251 2 251 2 252 416 252 333 252 2 252 333 252 38 252 38 253 333 253 375 253 38 254 375 254 39 254 39 255 375 255 374 255 39 255 374 255 87 255 87 256 374 256 310 256 87 257 310 257 89 257 89 258 310 258 309 258 89 259 309 259 91 259 91 260 309 260 509 260 91 261 509 261 92 261 92 262 509 262 507 262 92 263 507 263 215 263 215 264 507 264 505 264 215 264 505 264 213 264 505 265 504 265 213 265 213 265 504 265 214 265 214 266 504 266 506 266 214 266 506 266 216 266 216 267 506 267 508 267 216 268 508 268 217 268 217 269 508 269 311 269 217 269 311 269 90 269 90 270 311 270 373 270 90 270 373 270 88 270 88 271 373 271 331 271 88 271 331 271 46 271 46 272 331 272 330 272 46 272 330 272 182 272 182 273 330 273 288 273 182 273 288 273 43 273 43 274 288 274 409 274 43 274 409 274 188 274 188 275 409 275 411 275 188 275 411 275 186 275 186 276 411 276 412 276 186 276 412 276 187 276 187 277 412 277 370 277 187 278 370 278 95 278 95 279 370 279 368 279 95 280 368 280 93 280 368 281 367 281 93 281 93 282 367 282 94 282 94 283 367 283 369 283 94 284 369 284 96 284 96 285 369 285 371 285 96 285 371 285 185 285 185 286 371 286 372 286 185 287 372 287 189 287 189 288 372 288 410 288 189 289 410 289 51 289 51 290 410 290 308 290 51 290 308 290 50 290 50 291 308 291 307 291 50 291 307 291 48 291 48 292 307 292 364 292 48 293 364 293 218 293 218 294 364 294 408 294 218 294 408 294 219 294 219 295 408 295 407 295 219 295 407 295 220 295 220 296 407 296 406 296 220 297 406 297 242 297 242 298 406 298 366 298 242 299 366 299 243 299 243 300 366 300 365 300 243 300 365 300 52 300 52 301 365 301 306 301 52 301 306 301 53 301 53 302 306 302 290 302 53 302 290 302 190 302 190 303 290 303 289 303 190 304 289 304 191 304 191 305 289 305 355 305 191 305 355 305 156 305 156 306 355 306 357 306 156 307 357 307 157 307 157 308 357 308 358 308 157 309 358 309 246 309 246 310 358 310 486 310 246 311 486 311 244 311 244 312 486 312 488 312 244 312 488 312 245 312 245 313 488 313 489 313 245 314 489 314 247 314 247 315 489 315 491 315 247 316 491 316 248 316 248 317 491 317 492 317 248 317 492 317 249 317 249 318 492 318 494 318 249 319 494 319 263 319 263 320 494 320 547 320 263 320 547 320 264 320 264 321 547 321 546 321 264 322 546 322 49 322 49 323 546 323 532 323 49 324 532 324 126 324 126 325 532 325 531 325 126 326 531 326 127 326 127 327 531 327 553 327 127 328 553 328 164 328 164 329 553 329 552 329 164 329 552 329 165 329 165 330 552 330 551 330 165 331 551 331 166 331 166 332 551 332 550 332 166 332 550 332 125 332 125 333 550 333 549 333 125 334 549 334 123 334 123 335 549 335 545 335 123 336 545 336 76 336 76 337 545 337 544 337 76 337 544 337 77 337 77 338 544 338 543 338 77 338 543 338 120 338 120 339 543 339 542 339 120 340 542 340 121 340 121 341 542 341 541 341 121 342 541 342 122 342 122 343 541 343 540 343 122 344 540 344 74 344 74 345 540 345 539 345 74 346 539 346 75 346 75 347 539 347 538 347 75 347 538 347 27 347 27 348 538 348 548 348 27 349 548 349 25 349 25 350 548 350 346 350 25 350 346 350 5 350 10 351 5 351 476 351 476 351 5 351 346 351 134 352 278 352 135 352 135 353 278 353 277 353 135 354 277 354 136 354 136 354 277 354 398 354 136 355 398 355 12 355 12 356 398 356 397 356 12 357 397 357 13 357 13 358 397 358 396 358 13 359 396 359 14 359 14 360 396 360 394 360 14 361 394 361 3 361 3 361 394 361 393 361 3 362 393 362 4 362 4 362 393 362 287 362 4 363 287 363 6 363 6 363 287 363 286 363 6 364 286 364 7 364 7 364 286 364 284 364 7 365 284 365 23 365 23 365 284 365 283 365 23 366 283 366 24 366 24 366 283 366 296 366 24 367 296 367 26 367 26 367 296 367 295 367 26 368 295 368 73 368 73 368 295 368 294 368 73 369 294 369 79 369 79 369 294 369 305 369 79 370 305 370 78 370 78 371 305 371 304 371 78 372 304 372 124 372 124 372 304 372 510 372 124 373 510 373 129 373 129 373 510 373 445 373 129 374 445 374 128 374 128 375 445 375 444 375 128 376 444 376 179 376 179 377 444 377 493 377 179 378 493 378 149 378 149 378 493 378 490 378 149 379 490 379 150 379 150 379 490 379 487 379 150 380 487 380 151 380 151 381 487 381 356 381 151 382 356 382 152 382 152 382 356 382 354 382 152 383 354 383 153 383 153 383 354 383 459 383 153 384 459 384 41 384 41 384 459 384 458 384 41 385 458 385 42 385 42 385 458 385 353 385 42 386 353 386 180 386 180 386 353 386 352 386 180 387 352 387 181 387 181 387 352 387 392 387 181 388 392 388 183 388 183 388 392 388 391 388 183 389 391 389 184 389 184 389 391 389 390 389 184 390 390 390 44 390 44 390 390 390 351 390 44 391 351 391 45 391 45 392 351 392 350 392 45 393 350 393 47 393 47 394 350 394 349 394 47 395 349 395 17 395 17 396 349 396 348 396 17 397 348 397 34 397 34 397 348 397 389 397 34 398 389 398 134 398 134 399 389 399 278 399 272 400 384 400 274 400 274 401 384 401 383 401 274 402 383 402 202 402 202 402 383 402 528 402 202 403 528 403 200 403 200 404 528 404 479 404 200 405 479 405 198 405 198 406 479 406 481 406 198 407 481 407 207 407 207 408 481 408 483 408 207 409 483 409 205 409 205 409 483 409 453 409 205 410 453 410 141 410 141 410 453 410 455 410 141 411 455 411 139 411 139 411 455 411 446 411 139 412 446 412 86 412 86 412 446 412 448 412 86 413 448 413 84 413 84 413 448 413 450 413 84 414 450 414 82 414 82 414 450 414 452 414 82 415 452 415 80 415 80 415 452 415 521 415 80 416 521 416 146 416 146 416 521 416 523 416 146 417 523 417 144 417 144 417 523 417 525 417 144 418 525 418 142 418 142 419 525 419 535 419 142 420 535 420 174 420 174 420 535 420 518 420 174 421 518 421 8 421 8 421 518 421 516 421 8 422 516 422 9 422 9 423 516 423 514 423 9 424 514 424 11 424 11 425 514 425 513 425 11 426 513 426 28 426 28 426 513 426 478 426 28 427 478 427 29 427 29 427 478 427 477 427 29 428 477 428 30 428 30 429 477 429 475 429 30 430 475 430 15 430 15 430 475 430 474 430 15 431 474 431 16 431 16 431 474 431 347 431 16 432 347 432 33 432 33 432 347 432 345 432 33 433 345 433 32 433 32 433 345 433 344 433 32 434 344 434 31 434 31 434 344 434 443 434 31 435 443 435 130 435 130 435 443 435 511 435 130 436 511 436 131 436 131 436 511 436 512 436 131 437 512 437 133 437 133 437 512 437 388 437 133 438 388 438 167 438 167 438 388 438 387 438 167 439 387 439 168 439 168 440 387 440 442 440 168 441 442 441 170 441 170 442 442 442 441 442 170 443 441 443 171 443 171 444 441 444 440 444 171 445 440 445 271 445 271 445 440 445 386 445 271 446 386 446 272 446 272 447 386 447 384 447</p>
+        </triangles>
+      </mesh>
+    </geometry>
+  </library_geometries>
+  <library_visual_scenes>
+    <visual_scene id="Scene" name="Scene">
+      <node id="Light_015" name="Light.015" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711008 0.5663933 4.076245 0.9551712 -0.1998833 0.2183913 1.005454 -0.05518912 0.6045247 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_015-light"/>
+      </node>
+      <node id="Camera_015" name="Camera.015" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_015-camera"/>
+      </node>
+      <node id="gear1" name="gear1" type="NODE">
+        <matrix sid="transform">0.0015 0 0 0 0 0.0015 0 0 0 0 0.0015 0 0 0 0 1</matrix>
+        <instance_geometry url="#gear1-mesh" name="gear1"/>
+      </node>
+      <node id="Light_014" name="Light.014" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711008 0.5663933 4.076245 0.9551712 -0.1998833 0.2183913 1.005454 -0.05518912 0.6045247 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_014-light"/>
+      </node>
+      <node id="Camera_014" name="Camera.014" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_014-camera"/>
+      </node>
+      <node id="Light_013" name="Light.013" type="NODE">
+        <matrix sid="transform">-4.36297e-4 -0.001156651 0.5663933 4.076245 0.001432757 -2.99825e-4 0.2183913 1.005454 -8.27837e-5 9.06787e-4 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_013-light"/>
+      </node>
+      <node id="Camera_013" name="Camera.013" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_013-camera"/>
+      </node>
+      <node id="Camera_012" name="Camera.012" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_012-camera"/>
+      </node>
+      <node id="Light_012" name="Light.012" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711007 0.5663934 4.076245 0.9551712 -0.1998832 0.2183914 1.005454 -0.05518918 0.6045248 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_012-light"/>
+      </node>
+      <node id="Camera_011" name="Camera.011" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_011-camera"/>
+      </node>
+      <node id="Light_011" name="Light.011" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711007 0.5663934 4.076245 0.9551712 -0.1998832 0.2183914 1.005454 -0.05518918 0.6045248 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_011-light"/>
+      </node>
+      <node id="Light_010" name="Light.010" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711006 0.5663934 4.076245 0.9551712 -0.1998832 0.2183914 1.005454 -0.0551892 0.6045249 0.7946722 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_010-light"/>
+      </node>
+      <node id="Camera_010" name="Camera.010" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_010-camera"/>
+      </node>
+      <node id="Camera_009" name="Camera.009" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_009-camera"/>
+      </node>
+      <node id="Light_009" name="Light.009" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711007 0.5663934 4.076245 0.9551712 -0.1998832 0.2183914 1.005454 -0.05518918 0.6045248 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_009-light"/>
+      </node>
+      <node id="Light_008" name="Light.008" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711008 0.5663933 4.076245 0.9551712 -0.1998833 0.2183913 1.005454 -0.05518912 0.6045247 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_008-light"/>
+      </node>
+      <node id="Camera_008" name="Camera.008" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_008-camera"/>
+      </node>
+      <node id="Camera_007" name="Camera.007" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_007-camera"/>
+      </node>
+      <node id="Light_007" name="Light.007" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711007 0.5663934 4.076245 0.9551712 -0.1998832 0.2183914 1.005454 -0.05518918 0.6045248 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_007-light"/>
+      </node>
+      <node id="Camera_006" name="Camera.006" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_006-camera"/>
+      </node>
+      <node id="Light_006" name="Light.006" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711007 0.5663934 4.076245 0.9551712 -0.1998832 0.2183914 1.005454 -0.05518918 0.6045248 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_006-light"/>
+      </node>
+      <node id="Light_005" name="Light.005" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711006 0.5663934 4.076245 0.9551712 -0.1998832 0.2183914 1.005454 -0.0551892 0.6045249 0.7946722 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_005-light"/>
+      </node>
+      <node id="Camera_005" name="Camera.005" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_005-camera"/>
+      </node>
+      <node id="Camera_004" name="Camera.004" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_004-camera"/>
+      </node>
+      <node id="Light_004" name="Light.004" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711007 0.5663934 4.076245 0.9551712 -0.1998832 0.2183914 1.005454 -0.05518918 0.6045248 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_004-light"/>
+      </node>
+      <node id="Light_003" name="Light.003" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711008 0.5663933 4.076245 0.9551712 -0.1998833 0.2183913 1.005454 -0.05518912 0.6045247 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_003-light"/>
+      </node>
+      <node id="Camera_003" name="Camera.003" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_003-camera"/>
+      </node>
+      <node id="Camera_002" name="Camera.002" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_002-camera"/>
+      </node>
+      <node id="Light_002" name="Light.002" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711007 0.5663934 4.076245 0.9551712 -0.1998832 0.2183914 1.005454 -0.05518918 0.6045248 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_002-light"/>
+      </node>
+      <node id="Light_001" name="Light.001" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711008 0.5663933 4.076245 0.9551712 -0.1998833 0.2183913 1.005454 -0.05518912 0.6045247 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light_001-light"/>
+      </node>
+      <node id="Camera_001" name="Camera.001" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054209 -0.6141704 -6.925791 -4.01133e-9 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera_001-camera"/>
+      </node>
+      <node id="Camera" name="Camera" type="NODE">
+        <matrix sid="transform">0.6859207 -0.3240135 0.6515582 7.358891 0.7276763 0.3054208 -0.6141704 -6.925791 0 0.8953956 0.4452714 4.958309 0 0 0 1</matrix>
+        <instance_camera url="#Camera-camera"/>
+      </node>
+      <node id="Light" name="Light" type="NODE">
+        <matrix sid="transform">-0.2908646 -0.7711008 0.5663932 4.076245 0.9551712 -0.1998834 0.2183912 1.005454 -0.05518906 0.6045247 0.7946723 5.903862 0 0 0 1</matrix>
+        <instance_light url="#Light-light"/>
+      </node>
+    </visual_scene>
+  </library_visual_scenes>
+  <scene>
+    <instance_visual_scene url="#Scene"/>
+  </scene>
+</COLLADA>

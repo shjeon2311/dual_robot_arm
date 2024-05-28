@@ -1,0 +1,1 @@
+/home/jsh/robot_ws/src/pymoveit2/examples/dual_pose_goal.py

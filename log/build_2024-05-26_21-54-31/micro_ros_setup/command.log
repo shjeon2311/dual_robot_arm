@@ -1,0 +1,4 @@
+Invoking command in '/home/jsh/robot_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/micro_ros_setup -- -j8 -l8
+Invoked command in '/home/jsh/robot_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/micro_ros_setup -- -j8 -l8
+Invoking command in '/home/jsh/robot_ws/build/micro_ros_setup': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/micro_ros_setup
+Invoked command in '/home/jsh/robot_ws/build/micro_ros_setup' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/micro_ros_setup

@@ -1,0 +1,199 @@
+[0.097s] Invoking command in '/home/jsh/robot_ws/build/multi_robot_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jsh/robot_ws/src/multi_robot_arm -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jsh/robot_ws/install/multi_robot_arm
+[0.399s] -- The C compiler identification is GNU 11.4.0
+[0.729s] -- The CXX compiler identification is GNU 11.4.0
+[0.785s] -- Detecting C compiler ABI info
+[1.208s] -- Detecting C compiler ABI info - done
+[1.277s] -- Check for working C compiler: /usr/bin/cc - skipped
+[1.280s] -- Detecting C compile features
+[1.282s] -- Detecting C compile features - done
+[1.303s] -- Detecting CXX compiler ABI info
+[1.774s] -- Detecting CXX compiler ABI info - done
+[1.848s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[1.850s] -- Detecting CXX compile features
+[1.854s] -- Detecting CXX compile features - done
+[1.879s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[2.879s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[3.316s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[3.594s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[4.005s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[4.049s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[4.121s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[4.236s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[4.418s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[5.146s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[5.178s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[5.909s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[6.171s] -- Found FastRTPS: /opt/ros/humble/include  
+[6.468s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[6.555s] -- Looking for pthread.h
+[6.943s] -- Looking for pthread.h - found
+[6.945s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[7.350s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[7.356s] -- Found Threads: TRUE  
+[8.705s] -- Found gazebo_ros: 3.7.0 (/opt/ros/humble/share/gazebo_ros/cmake)
+[8.797s] -- Found PkgConfig: /usr/bin/pkg-config (found version "0.29.2") 
+[8.807s] -- Checking for module 'bullet>=2.82'
+[8.881s] --   Found bullet, version 3.05
+[9.545s] -- Found fcl: /usr/include (found suitable version "0.7.0", minimum required is "0.5.0") 
+[9.820s] -- Found assimp: /usr/include (found version "5.2.0") 
+[9.984s] -- Found DART: /usr/include (Required is at least version "6.6") found components: dart 
+[10.202s] -- Found Boost: /usr/lib/x86_64-linux-gnu/cmake/Boost-1.74.0/BoostConfig.cmake (found suitable version "1.74.0", minimum required is "1.40.0") found components: thread system filesystem program_options regex iostreams date_time 
+[10.337s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found version "3.12.4") 
+[10.382s] -- Looking for ignition-math6 -- found version 6.15.1
+[10.434s] -- Searching for dependencies of ignition-math6
+[10.447s] -- Looking for OGRE...
+[10.451s] -- OGRE_PREFIX_WATCH changed.
+[10.484s] -- Checking for module 'OGRE'
+[10.564s] --   Found OGRE, version 1.9.0
+[10.769s] -- Found Ogre Ghadamon (1.9.0)
+[10.829s] -- Found OGRE: optimized;/usr/lib/x86_64-linux-gnu/libOgreMain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreMain.so
+[10.898s] -- Looking for OGRE_Paging...
+[10.946s] -- Found OGRE_Paging: optimized;/usr/lib/x86_64-linux-gnu/libOgrePaging.so;debug;/usr/lib/x86_64-linux-gnu/libOgrePaging.so
+[10.947s] -- Looking for OGRE_Terrain...
+[10.995s] -- Found OGRE_Terrain: optimized;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so;debug;/usr/lib/x86_64-linux-gnu/libOgreTerrain.so
+[10.996s] -- Looking for OGRE_Property...
+[11.049s] -- Found OGRE_Property: optimized;/usr/lib/x86_64-linux-gnu/libOgreProperty.so;debug;/usr/lib/x86_64-linux-gnu/libOgreProperty.so
+[11.049s] -- Looking for OGRE_RTShaderSystem...
+[11.100s] -- Found OGRE_RTShaderSystem: optimized;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so;debug;/usr/lib/x86_64-linux-gnu/libOgreRTShaderSystem.so
+[11.101s] -- Looking for OGRE_Volume...
+[11.152s] -- Found OGRE_Volume: optimized;/usr/lib/x86_64-linux-gnu/libOgreVolume.so;debug;/usr/lib/x86_64-linux-gnu/libOgreVolume.so
+[11.153s] -- Looking for OGRE_Overlay...
+[11.198s] -- Found OGRE_Overlay: optimized;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so;debug;/usr/lib/x86_64-linux-gnu/libOgreOverlay.so
+[12.304s] -- Looking for ignition-math6 -- found version 6.15.1
+[12.328s] -- Looking for ignition-transport8 -- found version 8.2.1
+[12.331s] -- Searching for dependencies of ignition-transport8
+[12.436s] -- Found Protobuf: /usr/lib/x86_64-linux-gnu/libprotobuf.so (found suitable version "3.12.4", minimum required is "3") 
+[12.509s] -- Config-file not installed for ZeroMQ -- checking for pkg-config
+[12.535s] -- Checking for module 'libzmq >= 4'
+[12.617s] --   Found libzmq , version 4.3.4
+[12.836s] -- Found ZeroMQ: TRUE (Required is at least version "4") 
+[12.887s] -- Checking for module 'uuid'
+[13.004s] --   Found uuid, version 2.37.2
+[13.256s] -- Found UUID: TRUE  
+[13.285s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[13.292s] -- Searching for dependencies of ignition-msgs5
+[13.486s] -- Looking for ignition-math6 -- found version 6.15.1
+[13.537s] -- Checking for module 'tinyxml2'
+[13.644s] --   Found tinyxml2, version 9.0.0
+[13.884s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[13.908s] -- Looking for ignition-common3 -- found version 3.14.0
+[13.912s] -- Searching for dependencies of ignition-common3
+[13.915s] -- Looking for dlfcn.h - found
+[13.922s] -- Looking for libdl - found
+[13.931s] -- Found DL: TRUE  
+[14.026s] -- Found tinyobjloader: /usr/lib/x86_64-linux-gnu/cmake/tinyobjloader/tinyobjloader-config.cmake (found version "2.0.0") 
+[14.032s] -- Searching for <ignition-common3> component [graphics]
+[14.068s] -- Looking for ignition-common3-graphics -- found version 3.14.0
+[14.074s] -- Searching for dependencies of ignition-common3-graphics
+[14.078s] -- Looking for ignition-math6 -- found version 6.15.1
+[14.122s] -- Looking for ignition-fuel_tools4 -- found version 4.4.0
+[14.147s] -- Searching for dependencies of ignition-fuel_tools4
+[14.855s] -- Found CURL: /usr/lib/x86_64-linux-gnu/libcurl.so (found version "7.81.0")  
+[14.937s] -- Checking for module 'jsoncpp'
+[15.028s] --   Found jsoncpp, version 1.9.5
+[15.255s] -- Found JSONCPP: TRUE  
+[15.316s] -- Checking for module 'libzip'
+[15.425s] --   Found libzip, version 1.7.3
+[15.652s] -- Found ZIP: TRUE  
+[15.656s] -- Looking for ignition-common3 -- found version 3.14.0
+[15.659s] -- Looking for ignition-math6 -- found version 6.15.1
+[15.662s] -- Looking for ignition-msgs5 -- found version 5.8.1
+[15.722s] -- Gazebo version: 11.10
+[15.730s] -- Checking for module 'tbb'
+[15.863s] --   Found tbb, version 2021.5.0
+[17.171s] -- Configuring done
+[17.263s] -- Generating done
+[17.294s] -- Build files have been written to: /home/jsh/robot_ws/build/multi_robot_arm
+[17.408s] Invoked command in '/home/jsh/robot_ws/build/multi_robot_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jsh/robot_ws/src/multi_robot_arm -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jsh/robot_ws/install/multi_robot_arm
+[17.411s] Invoking command in '/home/jsh/robot_ws/build/multi_robot_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/multi_robot_arm -- -j8 -l8
+[17.848s] Invoked command in '/home/jsh/robot_ws/build/multi_robot_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/multi_robot_arm -- -j8 -l8
+[18.106s] Invoking command in '/home/jsh/robot_ws/build/multi_robot_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/multi_robot_arm
+[18.208s] -- Install configuration: ""
+[18.211s] -- Execute custom install script
+[18.214s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/launch/arm2.urdf.yaml
+[18.271s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/launch/dual_robot.yaml
+[18.372s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/launch/gazebo_arm.launch.py
+[18.442s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/launch/gazebo_arm2.launch.py
+[18.532s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/chomp_planning.yaml
+[18.621s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/default_kinematics copy.yaml
+[18.729s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/default_kinematics.yaml
+[18.811s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/dual_robot.yaml
+[18.898s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/initial_positions.yaml
+[18.972s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/joint_limits.yaml
+[19.031s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/joint_limits_planning.yaml
+[19.122s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/kinematics.yaml
+[19.249s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/moveit_controller_manager.yaml
+[19.348s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/ompl_planning.yaml
+[19.477s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/physical_parameters.yaml
+[19.609s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/robot.srdf
+[19.721s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/ros_controllers_robot.yaml
+[19.853s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/visual_parameters copy.yaml
+[19.961s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/config/ur/ur5/visual_parameters.yaml
+[20.077s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/inc/ur_common.xacro
+[20.208s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/inc/ur_transmissions.xacro
+[20.322s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/arm_01.stl
+[20.434s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/arm_02.stl
+[20.566s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/arm_02_v3-cut-5.stl
+[20.670s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/arm_03.stl
+[20.796s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/base.stl
+[20.931s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/gear1.stl
+[21.012s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/gear2.stl
+[21.140s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/grip_link_1.stl
+[21.231s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/gripper.stl
+[21.337s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/gripper_1.stl
+[21.445s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/gripper_base.stl
+[21.504s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/collision/waist.stl
+[21.569s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/arm_01.dae
+[21.636s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/arm_02.dae
+[21.699s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/arm_03.dae
+[21.764s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/base.dae
+[21.844s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/gear1.dae
+[21.917s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/gear2.dae
+[21.986s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/grip_link_1.dae
+[22.081s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/gripper.dae
+[22.155s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/gripper_1.dae
+[22.247s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/gripper_base.dae
+[22.401s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/arm/visual/waist.dae
+[22.487s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/arm_01.stl
+[22.546s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/arm_02.stl
+[22.604s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/arm_03.stl
+[22.664s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/base.stl
+[22.727s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/gear1.stl
+[22.786s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/gear2.stl
+[22.849s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/grip_link_1.stl
+[22.922s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/gripper.stl
+[22.982s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/gripper_1.stl
+[23.075s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/gripper_base.stl
+[23.139s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/collision/waist.stl
+[23.200s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/arm_01.dae
+[23.254s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/arm_02.dae
+[23.312s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/arm_03.dae
+[23.359s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/base.dae
+[23.404s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/gear1.dae
+[23.459s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/gear2.dae
+[23.504s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/grip_link_1.dae
+[23.559s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/gripper.dae
+[23.605s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/gripper_1.dae
+[23.656s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/gripper_base.dae
+[23.704s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/meshes/ur5/visual/waist.dae
+[23.753s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/ur5/ur_macro.xacro
+[23.800s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/ur5/ur_ros2_control.xacro
+[23.851s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/urdf/ur/ur5/ur_urdf.xacro
+[23.902s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/worlds/empty.world
+[23.952s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/environment/multi_robot_arm.dsv
+[24.002s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/ament_index/resource_index/package_run_dependencies/multi_robot_arm
+[24.047s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/ament_index/resource_index/parent_prefix_path/multi_robot_arm
+[24.094s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/environment/ament_prefix_path.sh
+[24.140s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/environment/ament_prefix_path.dsv
+[24.182s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/environment/path.sh
+[24.225s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/environment/path.dsv
+[24.268s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/local_setup.bash
+[24.312s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/local_setup.sh
+[24.355s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/local_setup.zsh
+[24.398s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/local_setup.dsv
+[24.442s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/package.dsv
+[24.485s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/ament_index/resource_index/packages/multi_robot_arm
+[24.530s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/cmake/multi_robot_armConfig.cmake
+[24.572s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/cmake/multi_robot_armConfig-version.cmake
+[24.617s] -- Symlinking: /home/jsh/robot_ws/install/multi_robot_arm/share/multi_robot_arm/package.xml
+[24.669s] Invoked command in '/home/jsh/robot_ws/build/multi_robot_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/multi_robot_arm

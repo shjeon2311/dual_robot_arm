@@ -1,0 +1,6 @@
+Invoking command in '/home/jsh/robot_ws/build/multi_robot_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jsh/robot_ws/src/multi_robot_arm -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jsh/robot_ws/install/multi_robot_arm
+Invoked command in '/home/jsh/robot_ws/build/multi_robot_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake /home/jsh/robot_ws/src/multi_robot_arm -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/jsh/robot_ws/install/multi_robot_arm
+Invoking command in '/home/jsh/robot_ws/build/multi_robot_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/multi_robot_arm -- -j8 -l8
+Invoked command in '/home/jsh/robot_ws/build/multi_robot_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jsh/robot_ws/build/multi_robot_arm -- -j8 -l8
+Invoking command in '/home/jsh/robot_ws/build/multi_robot_arm': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/multi_robot_arm
+Invoked command in '/home/jsh/robot_ws/build/multi_robot_arm' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jsh/robot_ws/build/multi_robot_arm

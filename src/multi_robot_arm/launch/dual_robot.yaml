@@ -1,0 +1,11 @@
+arm1:
+  name: 'arm1'
+  x_pose: '-0.25'
+  y_pose: '-0.25'
+  Y: '-0.7854'
+
+arm2:
+  name: 'arm2'
+  x_pose: '0.25'
+  y_pose: '0.25'
+  Y: '2.3562'
