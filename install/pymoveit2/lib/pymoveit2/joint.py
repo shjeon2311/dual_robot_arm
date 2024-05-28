@@ -1,1 +1,0 @@
-/home/jsh/robot_ws/src/pymoveit2/examples/joint.py
