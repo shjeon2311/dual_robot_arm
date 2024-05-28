@@ -19,12 +19,49 @@ colcon build --symlink-install
 ```
 
 # Launch
-Console A: Launch Gazebo
-```
+
+**Console 1: Launch Gazebo
+**```
 source ./install/setup.bash
 ros2 launch multi_robot_arm gazebo_arm.launch.py
 ```
-Console B: 
+
+**Console 2: Run micro-ROS agent for Arm 1 (check the USB Port number)
+**```
 source ./install/setup.bash
-cd ./src/pymoveit2/examples
-python ex_pose_goal.py --ros-args -r __ns:=/arm1 -p position:=[0.5, 0.4,0.2]
+ros2 run micro_ros_agent micro_ros_agent serial --dev /dev/ttyACM0
+```
+
+**Console 3: Run micro-ROS agent for Arm 2 (check the USB Port number)
+**```
+source ./install/setup.bash
+ros2 run micro_ros_agent micro_ros_agent serial --dev /dev/ttyACM1
+```
+
+**Console 4: Integrate Gazebo with Hardware
+**```
+source ./install/setup.bash
+cd ./src/pymoveit2/examples/
+python3 ex_servo.py
+```
+
+**Console 5: Run task file
+**```
+source ./install/setup.bash
+cd ./src/pymoveit2/examples/
+python3 task_box.py
+(or python3 task_bag.py)
+```
+
+To check the publication and subscribtion of the topic for the motor angle values, you can follow the additional steps:
+**Console 6: Run task file
+**```
+source ./install/setup.bash
+ros2 topic echo /micro_ros_arduino_subscriber_1
+```
+
+**Console 7: Run task file
+**```
+source ./install/setup.bash
+ros2 topic echo /micro_ros_arduino_subscriber_2
+```
