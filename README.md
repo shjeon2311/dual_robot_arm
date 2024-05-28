@@ -53,7 +53,7 @@ python3 task_box.py
 (or python3 task_bag.py)
 ```
 
-To check the publication and subscribtion of the topic for the motor angle values, you can follow the additional steps:
+To check the subscribtion of the topic for the motor angle values, you can follow the additional steps:
 
 **Console 6: Run task file**
 ```
